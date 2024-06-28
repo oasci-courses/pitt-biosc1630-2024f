@@ -1,6 +1,6 @@
 docs_dir: content
 
-site_name: biosc1630-2024f
+site_name: BIOSC 1630 - Fall 2024
 site_author: OASCI
 
 repo_name: oasci/courses/pitt/biosc1630-2024f
@@ -79,6 +79,9 @@ colab_base_url: https://colab.research.google.com/github/oasci/pitt-biosc1540-20
 
 extra:
   generator: true
+  analytics:
+    provider: plausible
+    domain: pitt-biosc1630-2024f
   social:
     - icon: fontawesome/brands/gitlab
       link: https://gitlab.com/OASCI

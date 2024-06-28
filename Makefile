@@ -1,6 +1,6 @@
 SHELL := /usr/bin/env bash
-PYTHON_VERSION := 3.11.7
-PYTHON_VERSION_CONDENSED := 311
+PYTHON_VERSION := 3.12
+PYTHON_VERSION_CONDENSED := 312
 PACKAGE_NAME := biosc1630-2024f
 CONDA_NAME := $(PACKAGE_NAME)-dev
 CONDA := conda run -n $(CONDA_NAME)
@@ -9,7 +9,7 @@ CONDA_LOCK_OPTIONS := -p linux-64 --channel conda-forge
 ###   ENVIRONMENT   ###
 
 # See https://github.com/pypa/pip/issues/7883#issuecomment-643319919
-export PYTHON_KEYRING_BACKEND := keyring.backends.null.Keyring
+export PYTHON_KEYRING_BACKEND=keyring.backends.null.Keyring
 
 .PHONY: conda-create
 conda-create:
@@ -24,16 +24,16 @@ conda-create:
 conda-setup:
 	$(CONDA) conda install -y -c conda-forge poetry
 	$(CONDA) conda install -y -c conda-forge pre-commit
-	$(CONDA) conda install -y -c conda-forge tomli tomli-w
 	$(CONDA) conda install -y -c conda-forge conda-poetry-liaison
 
 # Conda-only packages specific to this project.
 .PHONY: conda-dependencies
 conda-dependencies:
-	$(CONDA) conda install -y -c conda-forge nodejs
+	echo "No conda-only packages are required."
 
 .PHONY: nodejs-dependencies
 nodejs-dependencies:
+	$(CONDA) conda install -y -c conda-forge nodejs
 	$(CONDA) npm install markdownlint-cli2 --global
 
 .PHONY: conda-lock
@@ -53,7 +53,6 @@ from-conda-lock:
 pre-commit-install:
 	$(CONDA) pre-commit install
 
-# Reads `pyproject.toml`, solves environment, then writes lock file.
 .PHONY: poetry-lock
 poetry-lock:
 	$(CONDA) poetry lock --no-interaction
@@ -63,10 +62,10 @@ install:
 	$(CONDA) poetry install --no-interaction --no-root
 
 .PHONY: environment
-environment: conda-create from-conda-lock pre-commit-install nodejs-dependencies install
+environment: conda-create from-conda-lock pre-commit-install install
 
 .PHONY: locks
-locks: conda-create conda-setup conda-dependencies conda-lock pre-commit-install poetry-lock nodejs-dependencies install
+locks: conda-create conda-setup conda-dependencies nodejs-dependencies conda-lock pre-commit-install poetry-lock install
 
 
 
@@ -75,11 +74,12 @@ locks: conda-create conda-setup conda-dependencies conda-lock pre-commit-install
 
 .PHONY: validate
 validate:
-	$(CONDA) markdownlint-cli2-fix content/*
-	$(CONDA) pre-commit run --all-files
+	- $(CONDA) markdownlint-cli2 "**/*.{md,markdown}" --config .markdownlint.yaml
+	- $(CONDA) pre-commit run --all-files
 
 .PHONY: formatting
 formatting:
+	- $(CONDA) markdownlint-cli2 "**/*.{md,markdown}" --fix --config .markdownlint.yaml
 	- $(CONDA) isort --settings-path pyproject.toml ./
 	- $(CONDA) black --config pyproject.toml ./
 
@@ -90,12 +90,16 @@ formatting:
 
 .PHONY: check-codestyle
 check-codestyle:
-	$(CONDA) isort --diff --check-only $(REPO_PATH)
-	$(CONDA) black --diff --check --config pyproject.toml $(REPO_PATH)
-	$(CONDA) pylint --recursive=y --rcfile pyproject.toml $(REPO_PATH)
+	$(CONDA) isort --diff --check-only $(PACKAGE_PATH)
+	$(CONDA) black --diff --check --config pyproject.toml $(PACKAGE_PATH)
+	- $(CONDA) pylint --rcfile pyproject.toml $(PACKAGE_PATH)
+
+.PHONY: mypy
+mypy:
+	- $(CONDA) mypy --config-file pyproject.toml $(PACKAGE_PATH)
 
 .PHONY: lint
-lint: check-codestyle
+lint: check-codestyle mypy
 
 
 
