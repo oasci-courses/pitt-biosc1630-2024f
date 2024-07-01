@@ -15,13 +15,12 @@ We'll look at many different topics in computational biology, exploring its comp
 
 My principal goals for this course are to equip you with the tools to
 
-- Engage in productive and positive learning experiences and growth;
-- Navigate and understand the various subfields of computational biology;
-- Organize, draft, revise, and finish preparing writing and presentations;
-- Recognize what aspects hamper written (e.g., grammar, organization, formatting) and visual (e.g., color, design, pace) communication;
-- Discover your voice and style of communication;
-- Process and digest information from a variety of different scientific sources.
-
+-   Engage in productive and positive learning experiences and growth;
+-   Navigate and understand the various subfields of computational biology;
+-   Organize, draft, revise, and finish preparing writing and presentations;
+-   Recognize what aspects hamper written (e.g., grammar, organization, formatting) and visual (e.g., color, design, pace) communication;
+-   Discover your voice and style of communication;
+-   Process and digest information from a variety of different scientific sources.
 
 ## Everything is a draft
 
