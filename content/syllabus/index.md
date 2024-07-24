@@ -1,6 +1,6 @@
 # Syllabus
 
-**Semester:** Spring 2024
+**Semester:** Fall 2024
 <br>
 **Meeting time:** Wednesdays from 1:00 - 3:30 pm.
 <br>
@@ -21,7 +21,7 @@ Students will present research articles orally, as well as complete a series of 
 ## Prerequisites
 
 You must be a Junior or Senior on the CBUAS-BS and CBUSCI-BS plan.
-You must also have completed BIOSC 1540 with a minimum grade of `C` **and** one of the following courses:
+You must also have completed BIOSC 1540 with a minimum grade of C **and** one of the following courses:
 
 -   ENG 0102;
 -   ENGCMP (0002 or 0006 or 0020 or 0200 or 0203 or 0205 or 0207 or 0208 or 0210 or 0212);
@@ -33,10 +33,10 @@ You must also have completed BIOSC 1540 with a minimum grade of `C` **and** one 
 BIOSC 1630 will fulfill the requirement for a writing-intensive course in the Computational Biology major.
 The [Dietrich School of Arts & Sciences Writing Institute defines this as](https://www.writinginstitute.pitt.edu/w-courses/proposing-new-writing-intensive-courses)
 
-> -   a course in which students engage with writing substantively throughout the term;
-> -   they write and revise throughout the term (not just at the end);
-> -   they write a total of 5750--6250 words;
-> -   they get feedback from their teacher and their peers.
+-   a course in which students engage with writing substantively throughout the term;
+-   they write and revise throughout the term (not just at the end);
+-   they write a total of 5750&mdash;6250 words;
+-   they get feedback from their teacher and their peers.
 
 !!! note
     Five hundred words is approximately one page single-spaced and two pages double-spaced.

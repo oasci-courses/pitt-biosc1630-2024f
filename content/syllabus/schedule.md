@@ -83,7 +83,7 @@ Jump to [this week](#week-1).
 
 ## Thanksgiving break
 
-No class on Nov 26 and 28.
+No class on Nov 27.
 
 ## Week 15
 

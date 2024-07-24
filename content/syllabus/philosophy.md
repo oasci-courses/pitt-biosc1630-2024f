@@ -15,24 +15,8 @@ We'll look at many different topics in computational biology, exploring its comp
 
 My principal goals for this course are to equip you with the tools to
 
--   Engage in productive and positive learning experiences and growth;
 -   Navigate and understand the various subfields of computational biology;
--   Organize, draft, revise, and finish preparing writing and presentations;
+-   Organize, draft, revise, and finish preparing writings and presentations;
 -   Recognize what aspects hamper written (e.g., grammar, organization, formatting) and visual (e.g., color, design, pace) communication;
 -   Discover your voice and style of communication;
 -   Process and digest information from a variety of different scientific sources.
-
-## Everything is a draft
-
-Open science and education are my core values and extend to my teaching.
-You will likely see me working on things that will be assigned in an hour or next week.
-Teaching new courses or making significant changes always works like this.
-Thus, looking ahead is acceptable, and all drafts are marked with the following admonition.
-If you start working ahead and things change, your time is lost.
-
-!!! danger "DRAFT"
-
-    This page is a work in progress and is subject to change at any moment.
-
-I will do my best to avoid mistakes, but they can happen.
-If you see grammar or spelling issues or need clarification on passages that don't have the DRAFT admonition, feel free to tell me so I can correct them.
