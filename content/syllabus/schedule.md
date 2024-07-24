@@ -23,6 +23,7 @@ Jump to [this week](#week-1).
 **Wednesday** (Sep 11) [Lecture 03](../../lectures/03/)
 
 -   ^^Topics^^: TODO
+
 ## Week 4
 
 **Wednesday** (Sep 18) [Lecture 04](../../lectures/04/)
@@ -64,11 +65,13 @@ Jump to [this week](#week-1).
 **Wednesday** (Oct 30) [Lecture 10](../../lectures/10/)
 
 -   ^^Topics^^: TODO
+
 ## Week 11
 
 **Wednesday** (Nov 6) [Lecture 11](../../lectures/11/)
 
 -   ^^Topics^^: TODO
+
 ## Week 12
 
 **Wednesday** (Nov 13) [Lecture 12](../../lectures/12/)
