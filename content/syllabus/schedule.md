@@ -87,7 +87,7 @@ No class on Nov 27.
 
 ## Week 15
 
-**Wednesday** (Dec 4) [Lecture 14](../../lectures/24/)
+**Wednesday** (Dec 4) [Lecture 14](../../lectures/14/)
 
 -   ^^Topics^^: TODO
 
