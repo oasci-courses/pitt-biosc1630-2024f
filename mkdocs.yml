@@ -73,10 +73,6 @@ plugins:
   - macros
   - print-site
 
-hooks:
-  - hooks/launchy.py
-colab_base_url: https://colab.research.google.com/github/oasci/pitt-biosc1540-2024s-website/blob/main/biosc1540
-
 extra:
   generator: true
   analytics:
@@ -99,7 +95,6 @@ extra_css:
 
 extra_javascript:
   - js/mathjax-config.js
-  - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
 markdown_extensions:

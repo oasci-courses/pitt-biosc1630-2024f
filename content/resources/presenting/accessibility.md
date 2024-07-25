@@ -1,4 +1,3 @@
-(resources:presenting:accessibility)=
 # Accessibility
 
 TODO: Add more
@@ -14,8 +13,8 @@ Avoid italics or underlining; use bold fonts for emphasis.
 Bright white backgrounds can make text harder to read.
 You can either
 
-- use an off-white or cream background,
-- or dark background with light text.
+-   use an off-white or cream background,
+-   or dark background with light text.
 
 ## Layout
 
@@ -34,16 +33,16 @@ Use high-contrast colors that are across from each other (i.e., complementary) o
 You can use one of these tools to check the contrast.
 The contrast ratio should be **at least** 4.5:1 to reach [WACAG Level AA](https://ialabs.ie/what-is-the-difference-between-wcag-a-aa-and-aaa/).
 
-- [coolors contrast checker](https://coolors.co/contrast-checker)
-- [Adobe color contrast analyzer](https://color.adobe.com/create/color-contrast-analyzer)
+-   [coolors contrast checker](https://coolors.co/contrast-checker)
+-   [Adobe color contrast analyzer](https://color.adobe.com/create/color-contrast-analyzer)
 
 Also, be sure to use a colorblind-friendly pallet.
 Here are some tools to help you check this.
 
-- [David math logic](https://davidmathlogic.com/colorblind)
-- [viz palette](https://projects.susielu.com/viz-palette)
+-   [David math logic](https://davidmathlogic.com/colorblind)
+-   [viz palette](https://projects.susielu.com/viz-palette)
 
 ## Resources
 
-- [How to create accessible presentations](https://www.gov.wales/how-create-accessible-powerpoint-presentations)
-- [University of Washington](https://www.washington.edu/doit/how-can-you-make-your-presentation-accessible)
+-   [How to create accessible presentations](https://www.gov.wales/how-create-accessible-powerpoint-presentations)
+-   [University of Washington](https://www.washington.edu/doit/how-can-you-make-your-presentation-accessible)
