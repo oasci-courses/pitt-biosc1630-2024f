@@ -9,7 +9,10 @@ CONDA_LOCK_OPTIONS := -p linux-64 --channel conda-forge
 # Default target
 all:
 	@echo "Available targets:"
-	@echo "  environment : Install conda environment named $(CONDA_NAME) with dependencies."
+	@echo "  environment : Install conda environment named $(CONDA_NAME) with dependencies"
+	@echo "  locks       : Fresh install conda environment and rewrite lock files"
+	@echo "  serve       : Serve website documentation that watches and rebuilds on file changes"
+	@echo "  docs        : Build static website files in public/"
 	@echo "  help        : Display this help message"
 
 help: all
@@ -34,9 +37,10 @@ conda-create:
 # Default packages that we always need.
 .PHONY: conda-setup
 conda-setup:
-	@ $(CONDA) conda install -y -c conda-forge poetry
-	@ $(CONDA) conda install -y -c conda-forge pre-commit
-	@ $(CONDA) conda install -y -c conda-forge conda-poetry-liaison
+	@ $(CONDA) conda install -y conda-forge::setuptools
+	@ $(CONDA) conda install -y conda-forge::poetry
+	@ $(CONDA) conda install -y conda-forge::pre-commit
+	@ $(CONDA) conda install -y conda-forge::conda-poetry-liaison
 	@ echo -n "done."
 
 # Conda-only packages specific to this project.
@@ -46,7 +50,7 @@ conda-dependencies:
 
 .PHONY: nodejs-dependencies
 nodejs-dependencies:
-	$(CONDA) conda install -y -c conda-forge nodejs
+	$(CONDA) conda install -y conda-forge::nodejs
 	$(CONDA) npm install markdownlint-cli2 --global
 
 .PHONY: conda-lock
@@ -167,7 +171,7 @@ mkdocs_port := $(shell \
 
 .PHONY: serve
 serve:
-	@ echo "Served at http://127.0.0.1:$(mkdocs_port)/"
+	@ echo "Serving documentation at http://127.0.0.1:$(mkdocs_port)/"
 	@ $(CONDA) mkdocs serve -a localhost:$(mkdocs_port)
 
 .PHONY: docs
