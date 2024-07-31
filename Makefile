@@ -6,6 +6,14 @@ CONDA_NAME := $(PACKAGE_NAME)-dev
 CONDA := conda run -n $(CONDA_NAME)
 CONDA_LOCK_OPTIONS := -p linux-64 --channel conda-forge
 
+# Default target
+all:
+	@echo "Available targets:"
+	@echo "  environment : Install conda environment named $(CONDA_NAME) with dependencies."
+	@echo "  help        : Display this help message"
+
+help: all
+
 ###   ENVIRONMENT   ###
 
 # See https://github.com/pypa/pip/issues/7883#issuecomment-643319919
@@ -13,18 +21,23 @@ export PYTHON_KEYRING_BACKEND=keyring.backends.null.Keyring
 
 .PHONY: conda-create
 conda-create:
-	- conda deactivate
-	conda remove -y -n $(CONDA_NAME) --all
-	conda create -y -n $(CONDA_NAME)
-	$(CONDA) conda install -y -c conda-forge python=$(PYTHON_VERSION)
-	$(CONDA) conda install -y conda-lock
+	@ echo "Initializing conda environment: $(CONDA_NAME)"
+	@ echo -n "Preparing ... "
+	@- conda deactivate
+	@ conda remove -y -n $(CONDA_NAME) --all
+	@ conda create -y -n $(CONDA_NAME)
+	@ echo "done."
+	@ echo -n "Installing core dependencies ... "
+	@ $(CONDA) conda install -y -c conda-forge python=$(PYTHON_VERSION)
+	@ $(CONDA) conda install -y conda-lock
 
 # Default packages that we always need.
 .PHONY: conda-setup
 conda-setup:
-	$(CONDA) conda install -y -c conda-forge poetry
-	$(CONDA) conda install -y -c conda-forge pre-commit
-	$(CONDA) conda install -y -c conda-forge conda-poetry-liaison
+	@ $(CONDA) conda install -y -c conda-forge poetry
+	@ $(CONDA) conda install -y -c conda-forge pre-commit
+	@ $(CONDA) conda install -y -c conda-forge conda-poetry-liaison
+	@ echo -n "done."
 
 # Conda-only packages specific to this project.
 .PHONY: conda-dependencies
@@ -154,8 +167,8 @@ mkdocs_port := $(shell \
 
 .PHONY: serve
 serve:
-	echo "Served at http://127.0.0.1:$(mkdocs_port)/"
-	$(CONDA) mkdocs serve -a localhost:$(mkdocs_port)
+	@ echo "Served at http://127.0.0.1:$(mkdocs_port)/"
+	@ $(CONDA) mkdocs serve -a localhost:$(mkdocs_port)
 
 .PHONY: docs
 docs:
