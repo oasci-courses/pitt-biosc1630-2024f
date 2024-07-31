@@ -3,7 +3,7 @@ docs_dir: content
 site_name: BIOSC 1630 - Fall 2024
 site_author: OASCI
 
-repo_name: oasci/courses/pitt/biosc1630-2024f
+repo_name: oasci/biosc1630-2024f
 repo_url: https://gitlab.com/oasci/courses/pitt/biosc1630-2024f
 copyright: <a href="https://creativecommons.org/licenses/BY-NC-SA/4.0/">CC BY-NC-SA 4.0</a> by OASCI
 
@@ -96,6 +96,11 @@ extra_css:
   - css/base.css
   - css/colors.css
   - css/launchy.css
+
+hooks:
+  - hooks/launchy.py
+  # - hooks/read-info.py
+colab_base_url: https://colab.research.google.com/github/oasci/pitt-biosc1630-2024f/blob/main/content
 
 extra_javascript:
   - js/mathjax-config.js
