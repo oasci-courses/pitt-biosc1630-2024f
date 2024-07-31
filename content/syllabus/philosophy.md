@@ -1,4 +1,4 @@
-# Philosophy
+# Course philosophy
 
 Clear and efficient communication is a crucial&mdash;and often neglected&mdash;aspect of science.
 Intentional or unintentional miscommunication of research and data can result in adverse consequences; some examples include a [flawed Challenger launch decision](https://www.britannica.com/event/Challenger-disaster), [inconsistent usage of units with the Mars Climate Orbiter](https://solarsystem.nasa.gov/missions/mars-climate-orbiter/in-depth/), [poor communication between experts and scientists with the public during the COVID-19 pandemic](https://www.weforum.org/agenda/2021/06/lessons-for-science-communication-from-the-covid-19-pandemic/), and [rampant misinformation](https://www.coe.int/en/web/campaign-free-to-speak-safe-to-learn/dealing-with-propaganda-misinformation-and-fake-news).
