@@ -11,6 +11,16 @@
 Topics in computational biology will be explored using primary literature.
 Students will present research articles orally and complete a series of writing assignments that will culminate in producing a literature review paper.
 
+## Overview
+
+Computational biology as a field moves extremely fast and is communicated almost exclusively through scientific literature.
+Most courses in the computational biology degree teach you computer science or biology outside the context of the field.
+This course&mdash;at least my version of it&mdash;provides time and space to upskill their computational biology knowledge by routinely reading primary research.
+
+The instructor will assign a scientific article across various computational biology subfields for students to read each week.
+Early in the semester, our focus will be learning and gaining experience digesting and understanding the article.
+As the semester progresses, we will practice critiquing our articles, ensuring you are prepared and confident in your understanding of the material.
+
 ## License
 
 Code contained in this project is released under the [GPLv3 license][gplv3] as specified in `LICENSE.md`.
