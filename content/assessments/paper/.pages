@@ -3,4 +3,5 @@ nav:
     - focus-articles.md
     - form-perspective.md
     - guidelines.md
-    - ...
+    # - ...
+    - assignments

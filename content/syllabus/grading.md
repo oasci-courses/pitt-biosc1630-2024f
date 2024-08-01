@@ -7,9 +7,15 @@
 
 The course will have the following point distribution.
 
--   [**Paper**](../../assessments/paper/) (40%)
-
-TODO:
+-   [**Paper**](../../assessments/paper/)
+    -   [**Introduction**](): 8%
+    -   [**Method analysis**](): 10%
+    -   [**Results interpretation**](): 12%
+    -   [**Discussion**](): 15%
+    -   [**Final draft**](): 20%
+-   [**Pre-class assignments**](): 10%
+-   [**Peer review**](): 10%
+-   [**Activities**](): 15%
 
 ## Late Assignments and Extensions
 
