@@ -7,15 +7,19 @@
 
 The course will have the following point distribution.
 
--   [**Paper**](../../assessments/paper/)
-    -   [**Introduction**](): 8%
-    -   [**Method analysis**](): 10%
-    -   [**Results interpretation**](): 12%
-    -   [**Discussion**](): 15%
-    -   [**Final draft**](): 20%
--   [**Pre-class assignments**](): 10%
--   [**Peer review**](): 10%
--   [**Activities**](): 15%
+-   [**Paper**](/assessments/paper/)
+    -   [**Theme analysis**](/assessments/paper/assignments/theme): 6%
+    -   [**Literature review**](/assessments/paper/assignments/review): 8%
+    -   [**Outline**](/assessments/paper/assignments/outline): 6%
+    -   [**Introduction**](/assessments/paper/assignments/intro): 6%
+    -   [**Field overview**](/assessments/paper/assignments/overview): 8%
+    -   [**Key challenges**](/assessments/paper/assignments/challenges): 8%
+    -   [**Future directions**](/assessments/paper/assignments/future): 4%
+    -   [**Conclusion**](/assessments/paper/assignments/conclusion): 4%
+    -   [**Peer review**](/assessments/paper/assignments/peer): 10%
+    -   [**Final draft**](/assessments/paper/assignments/final): 10%
+-   [**Pre-class assignments**](/assessments/pre-class): 10%
+-   **Activities**: 20%
 
 ## Late Assignments and Extensions
 

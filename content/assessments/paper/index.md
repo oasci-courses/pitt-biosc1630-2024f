@@ -1,6 +1,6 @@
 # Paper
 
-Students will write and revise a review paper (7--9 pages, 1.5 spacing, 1” margins, 12-point font) centered on a primary literature article of their choosing.
+Students will write and revise a perspective article centered on a primary literature article of their choosing.
 Students will put their focus article it into context by using at least two more primary literature articles.
 The review will include:
 

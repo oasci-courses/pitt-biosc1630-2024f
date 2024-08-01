@@ -21,10 +21,7 @@ A [Google Docs](https://docs.google.com) template will be shared with you with a
 
 ## Contents
 
-This guide outlines the structure and requirements for writing a perspective article in computational biology.
-You will be tasked with crafting a thoughtful, well-researched piece that demonstrates your understanding of a specific topic within the field.
-Your article should be 5&ndash;7 pages long (excluding the cover page, references, tables, and figures) following the above [typesetting format requirements](#typesetting).
-The topic must be pre-approved by the instructor to ensure its relevance and scope are appropriate for this assignment.
+This guide outlines the structure and requirements for writing a perspective article in computational biology. You will be tasked with crafting a thoughtful, well-researched piece that demonstrates your understanding of a specific topic within the field. Your article should be 5–7 pages long (excluding the cover page, references, tables, and figures) following the above typesetting format requirements. The topic must be based on one of the provided themes and associated papers discussed in class.
 
 Your perspective article will consist of several key sections, each serving a distinct purpose in presenting your analysis and insights.
 These sections include:
@@ -37,6 +34,7 @@ These sections include:
 -   References.
 
 Additionally, you may include relevant figures or tables to support your discussion.
+
 Each section has specific guidelines and objectives, which are detailed below.
 By following this structure, you will create a comprehensive and cohesive article that contributes meaningfully to the discourse in computational biology.
 
@@ -161,16 +159,34 @@ This section should:
 -   Outline the structure of your article, briefly mentioning each main section to guide the reader.
 -   End with a clear thesis statement that encapsulates the main argument or perspective you will present.
 
-## Body
+## Current State of the Field
+
+-   Summarize the key findings from the papers provided in your chosen theme
+-   Discuss how these papers collectively contribute to our understanding of the topic
+-   Highlight any conflicting results or interpretations among the papers
+-   Identify emerging trends or patterns in the research
 
 -   This section should be split into sections starting with a heading.
 -   Body should follow directly the last paragraph of your introduction rather than start a new page.
 -   You may use subheadings if necessary.
 -   All headings should be [assertion statements](resources:presenting:design-frameworks), not broad headings such as "Results" or "Model overview".
-    ("Introduction" and "Conclusions" are exceptions.)
 -   You should present and discuss key methods, data, and analysis.
     No additional context/motivation of the research should be included at the beginning; that still belongs in the introduction.
 -   Include unifying themes or overarching results, weaknesses, gaps, or inconsistencies so that you are not simply summarizing papers.
+
+## Key Challenges and Limitations
+
+-   Analyze the primary obstacles facing research in this area
+-   Discuss methodological limitations identified in the papers
+-   Explore conceptual challenges that hinder progress in the field
+-   Consider ethical, computational, or data-related issues relevant to the topic
+
+## Future Directions and Opportunities
+
+-   Propose potential solutions to the challenges identified
+-   Suggest new research questions or hypotheses based on current findings
+-   Discuss emerging technologies or methods that could advance the field
+-   Explore potential interdisciplinary approaches or collaborations
 
 ## Conclusions
 
@@ -213,11 +229,13 @@ While many things are subject to taste, there are still some suggested guideline
     This is a work in progress.
 
 -   Avoid using `I` in your writing whenever possible.
-    There is almost always a better way to write the sentence without `I`, `we`, `us`, `you`, etc.
-    However, if you must use one of them, `we` is preferred.
+    In a perspective article, it's acceptable to use a more personal tone.
+    While you should still maintain academic rigor, you can use phrases like "In our view," or "We propose" when presenting your unique insights or interpretations.
+-   Make sure to clearly distinguish between established facts from the literature and your own interpretations or proposals.
 -   Citations should always go before the period (i.e., left) instead of after.
     In-text citations are treated as part of the sentence.
     When writing for a scientific journal, you follow whatever their guidelines state.
+-   Use strong, clear language to articulate your perspective, but always support your points with evidence from the provided papers or other relevant sources.
 -   For every sentence, ask yourself how a grumpy old scientist would respond.
 
     > Computational biology is revolutionizing our understanding of the world around us.

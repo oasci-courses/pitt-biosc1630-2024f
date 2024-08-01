@@ -1,3 +1,6 @@
 nav:
-  - introduction.md
+  - theme.md
+  - methods.md
+  - results.md
+  - discussion.md
   - final.md
