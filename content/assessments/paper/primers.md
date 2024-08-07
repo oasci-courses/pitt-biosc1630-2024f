@@ -1,13 +1,15 @@
 # Perspective primers
 
-When developing your perspective based on a focus article, choosing a paper that provides rich content and opportunities for analysis is crucial.
-Here are some key areas within computational biology and examples of the types of articles that would make good focus pieces.
+In this course, you will have the opportunity to delve into critical debates in computational biology.
+You must choose one of the following perspective primers and write a detailed, well-supported perspective on the topic.
+Each primer presents a nuanced question with no clear right or wrong answer, encouraging you to explore the literature, form your own opinion, and justify your stance.
+Your task is to research your chosen topic thoroughly, present a balanced argument, and provide a well-reasoned perspective supported by current scientific evidence.
 
-## Computational structural biology
+## Protein structure prediction
 
 **Primer:** Are ab initio protein structure prediction algorithms still relevant in the deep learning era?
 
-Ab initio protein structure prediction algorithms have long been used to determine the three-dimensional structures of proteins from their amino acid sequences without relying on homologous structures.
+Ab initio protein structure prediction algorithms can determine the three-dimensional structures of proteins from their amino acid sequences without relying on homologous structures.
 These methods often involve intensive computational processes and can be time-consuming.
 However, recent advances in deep learning, exemplified by tools like AlphaFold, have dramatically improved the accuracy and efficiency of protein structure predictions, challenging the relevance of traditional ab initio approaches.
 
@@ -20,45 +22,46 @@ Key points for discussion:
 -   **Accuracy and Reliability:** Compare the accuracy and reliability of ab initio methods with deep learning-based predictions.
  Evaluate situations where one method may outperform the other.
 -   **Computational Resources:** Assess the computational demands of ab initio methods versus deep learning models, considering accessibility for different research institutions.
--   **Data Dependence:** Discuss the dependence of deep learning models on large datasets and the potential limitations this may impose compared to ab initio methods, which do not rely on prior data.
+-   **Data Dependence:** Discuss the dependence of deep learning models on large datasets and the potential limitations this may impose compared to ab initio methods, which do not exclusively rely on prior data.
 -   **Innovation and Integration:** Explore how traditional ab initio methods can be integrated with deep learning approaches to enhance prediction accuracy and reliability.
 -   **Case Studies:** Examine specific case studies where ab initio methods have provided unique insights or deep learning models have significantly outperformed traditional approaches.
 -   **Future Prospects:** Consider the future of protein structure prediction, including potential advancements in ab initio and deep learning methods and their implications for the field.
 
 One can argue for the continued relevance of ab initio methods based on their foundational principles, independence from large training datasets, and potential for integration with new technologies.
-Conversely, others may emphasize deep learning's transformative impact, highlighting its superior accuracy, efficiency, and the paradigm shift it represents in the field.
+Conversely, others may emphasize deep learning's transformative impact, highlighting its superior accuracy, efficiency, and the paradigm shift in the field.
 
 ## In silico toxicology
 
 **Primer:** Could computational models for predicting drug toxicity be reliable enough to replace animal testing?
 
-In silico toxicology aims to predict the toxicity of chemical compounds using computational models, offering potential benefits such as reducing the reliance on animal testing, lowering costs, and speeding up the drug development process.
+In silico toxicology aims to predict the toxicity of chemical compounds using computational models.
+It offers potential benefits such as reducing the reliance on animal testing, lowering costs, and speeding up the drug development process.
 These models, which include quantitative structure-activity relationship (QSAR) models, machine learning algorithms, and molecular docking, have shown promise in early-stage drug discovery.
-However, the question remains whether they will be reliable enough to fully replace traditional animal testing, which has been the gold standard for assessing drug safety.
+However, it is unclear whether they will be reliable enough to fully replace traditional animal testing, which has been the gold standard for assessing drug safety.
 
-Key points for discussion:**
+Key points for discussion:
 
 -   **Predictive Accuracy:** Compare the predictive power of these models to traditional animal testing, considering both successes and failures.
 -   **Validation and Reliability:** Discuss the validation processes for in silico models and their robustness across different chemical spaces.
-    Examine the reproducibility of results generated by computational models versus animal studies.
+ Examine the reproducibility of results generated by computational models versus animal studies.
 -   **Ethical Considerations:** Explore the ethical implications of continuing animal testing in the face of emerging computational alternatives.
-    Discuss the ethical benefits of reducing animal testing and the potential risks to human health if in silico predictions are inaccurate.
+ Discuss the ethical benefits of reducing animal testing and the potential risks to human health if in silico predictions are inaccurate.
 -   **Regulatory Acceptance:** Discuss the challenges and requirements for regulatory agencies to adopt computational models as a standard for toxicity testing.
 -   **Case Studies:** Analyze specific case studies where in silico models have successfully predicted toxicity and prevented harmful drugs from progressing.
-    Identify cases where in silico predictions failed, leading to the continued need for animal testing.
+ Identify cases where in silico predictions failed, leading to the continued need for animal testing.
 -   **Integration and Improvement:** Explore how in silico models can be integrated with traditional methods to enhance overall predictive accuracy.
-    Discuss ongoing advancements in computational toxicology and their potential to improve model reliability.
+ Discuss ongoing advancements in computational toxicology and their potential to improve model reliability.
 
-One can argue for the adoption of in silico toxicology based on ethical considerations, cost savings, and technological advancements that enhance predictive accuracy.
+One can argue for adopting in silico toxicology based on ethical considerations, cost savings, and technological advancements that enhance predictive accuracy.
 Conversely, others may emphasize the proven reliability of animal testing, the potential risks of relying solely on computational models, and the need for further validation and regulatory acceptance.
 
-## Bioinformatics
+## Personalized medicine
 
 **Primer:** Is personalized medicine achievable with current bioinformatics technologies?
 
 Personalized medicine aims to tailor medical treatment to individual characteristics, such as genetic makeup, lifestyle, and environment.
 Bioinformatics technologies, including genomic sequencing, data integration, and predictive modeling, are crucial in advancing this field.
-This primer asks students to evaluate whether current bioinformatics technologies are sufficient to achieve the goals of personalized medicine, considering both the technological capabilities and practical challenges.
+Will bioinformatics technologies are sufficient to achieve the goals of personalized medicine, considering both the technological capabilities and practical challenges?
 
 Key points for discussion:
 
@@ -69,5 +72,5 @@ Key points for discussion:
 -   **Case Studies:** Examine specific case studies where bioinformatics technologies have successfully contributed to personalized medicine and identify areas for improvement.
 -   **Future Prospects:** Discuss potential advancements in bioinformatics technologies and their implications for the future of personalized medicine.
 
-Based on successful case studies and technological advancements, one can argue for the feasibility of personalized medicine with current bioinformatics technologies.
+Based on successful case studies and technological advancements, personalized medicine is feasible with current bioinformatics technologies.
 Others may highlight the practical, ethical, and technical challenges that still need to be addressed.
