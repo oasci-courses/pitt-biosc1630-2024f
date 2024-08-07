@@ -28,30 +28,6 @@ Key points for discussion:
 One can argue for the continued relevance of ab initio methods based on their foundational principles, independence from large training datasets, and potential for integration with new technologies.
 Conversely, others may emphasize deep learning's transformative impact, highlighting its superior accuracy, efficiency, and the paradigm shift it represents in the field.
 
-## Computer-aided drug design
-
-**Primer:** Are molecular dynamics simulations overhyped in drug discovery, or do they provide indispensable insights?
-
-Molecular dynamics (MD) simulations allow researchers to observe the behavior of molecules over time, offering detailed insights into the dynamic nature of protein-ligand interactions.
-This technique is often used after initial docking studies to refine and validate the predicted interactions.
-However, MD simulations are computationally intensive and require significant expertise to interpret.
-
-MD simulations are typically performed after initial docking studies in the drug development pipeline to validate and refine the predicted protein-ligand interactions.
-The question arises: Should researchers invest in computationally expensive and time-consuming MD simulations or proceed directly to wet-lab experiments, which might provide more definitive answers?
-This decision point is critical, as it impacts the drug development process's efficiency, accuracy, and cost.
-
-Key points for discussion:
-
--   **Accuracy and Precision:** Debate the accuracy of MD simulations in predicting real-world molecular interactions compared to static docking models.
--   **Computational Resources:** Consider the computational costs and accessibility of MD simulations for different research institutions.
--   **Predictive Value:** Evaluate how MD simulations can refine docking results and their impact on predicting binding affinities and interaction stability.
--   **Experimental Validation:** Discuss whether the insights gained from MD simulations justify the delay and resources compared to proceeding directly to wet lab experiments after docking.
--   **Case Studies:** Examine specific case studies in which MD simulations have either provided critical insights or been unnecessary in the drug design process.
--   **Future Prospects:** Discuss potential advancements in MD technology and their implications for future drug design, considering both the benefits and limitations.
-
-MD simulations could be indispensable because they can provide detailed dynamic insights and refine docking predictions, enhancing the reliability of subsequent wet lab experiments.
-Conversely, others might highlight the practical challenges, such as the computational expense and the potential delays in the drug development timeline, advocating for a more streamlined approach that moves directly from docking to experimental validation.
-
 ## In silico toxicology
 
 **Primer:** Could computational models for predicting drug toxicity be reliable enough to replace animal testing?
