@@ -1,6 +1,6 @@
 nav:
     - index.md
-    - focus-articles.md
+    - Perspective primers: primers.md
     - form-perspective.md
     - guidelines.md
     # - ...
