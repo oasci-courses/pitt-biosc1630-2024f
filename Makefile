@@ -171,7 +171,7 @@ mkdocs_port := $(shell \
 
 .PHONY: serve
 serve:
-	@ echo "Serving documentation at http://127.0.0.1:$(mkdocs_port)/"
+	@ echo "Serving website at http://127.0.0.1:$(mkdocs_port)/"
 	@ $(CONDA) mkdocs serve -a localhost:$(mkdocs_port)
 
 .PHONY: docs
