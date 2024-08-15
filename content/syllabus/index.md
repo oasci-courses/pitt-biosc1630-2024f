@@ -4,7 +4,7 @@
 <br>
 **Meeting time:** Wednesdays from 1:00 - 3:30 pm.
 <br>
-**Location:** 302 Cathedral of Learning
+**Location:** 302 [Cathedral of Learning](https://map.concept3d.com/?id=1315#!ct/38344,38325,38322,38242,37767?m/376214?s/?sbc/)
 <br>
 **Instructor:** Alex Maldonado, PhD (he/him/his)
 <br>
