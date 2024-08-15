@@ -1,5 +1,5 @@
 nav:
     - index.md
-    - pre-class
-    - paper
+    - Pre-class: pre-class
+    - Perspective paper: paper
     - ...
