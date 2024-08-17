@@ -23,6 +23,7 @@ Jump to [this week](#week-1).
 **Wednesday** (Sep 11) [Lecture 03](../../lectures/03/)
 
 -   ^^Topics^^: TODO
+-   ^^Due^^: [Theme](../assessments/paper/assignments/theme.md)
 
 ## Week 4
 
@@ -35,6 +36,7 @@ Jump to [this week](#week-1).
 **Wednesday** (Sep 25) [Lecture 05](../../lectures/05/)
 
 -   ^^Topics^^: TODO
+-   ^^Due^^: [Review](../assessments/paper/assignments/intro.md)
 
 ## Week 6
 
@@ -47,6 +49,7 @@ Jump to [this week](#week-1).
 **Wednesday** (Oct 9) [Lecture 07](../../lectures/07/)
 
 -   ^^Topics^^: TODO
+-   ^^Due^^: [Introduction](../assessments/paper/assignments/intro.md)
 
 ## Week 8
 
@@ -59,6 +62,7 @@ Jump to [this week](#week-1).
 **Wednesday** (Oct 23) [Lecture 09](../../lectures/09/)
 
 -   ^^Topics^^: TODO
+-   ^^Due^^: [Overview](../assessments/paper/assignments/overview.md)
 
 ## Week 10
 
@@ -71,6 +75,7 @@ Jump to [this week](#week-1).
 **Wednesday** (Nov 6) [Lecture 11](../../lectures/11/)
 
 -   ^^Topics^^: TODO
+-   ^^Due^^: [Challenges](../assessments/paper/assignments/challenges.md)
 
 ## Week 12
 
@@ -83,6 +88,7 @@ Jump to [this week](#week-1).
 **Wednesday** (Nov 20) [Lecture 13](../../lectures/13/)
 
 -   ^^Topics^^: TODO
+-   ^^Due^^: [Conclusions](../assessments/paper/assignments/conclusion.md)
 
 ## Thanksgiving break
 
@@ -93,6 +99,7 @@ No class on Nov 27.
 **Wednesday** (Dec 4) [Lecture 14](../../lectures/14/)
 
 -   ^^Topics^^: TODO
+-   ^^Due^^: [Final paper](../assessments/paper/assignments/final.md)
 
 ## Finals
 
