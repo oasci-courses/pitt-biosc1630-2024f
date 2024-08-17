@@ -29,7 +29,7 @@ theme:
     text: Roboto
     code: Roboto Mono
   icon:
-    repo: fontawesome/brands/gitlab
+    repo: fontawesome/brands/github
     annotation: material/star-four-points-circle
   features:
     - content.code.annotate
