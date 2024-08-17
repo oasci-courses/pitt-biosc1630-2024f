@@ -100,8 +100,7 @@ extra_css:
 
 hooks:
   - hooks/launchy.py
-  # - hooks/read-info.py
-colab_base_url: https://colab.research.google.com/github/oasci/pitt-biosc1630-2024f/blob/main/content
+colab_base_url: https://colab.research.google.com/github/oasci-courses/pitt-biosc1630-2024f/blob/main/content
 
 extra_javascript:
   - js/mathjax-config.js

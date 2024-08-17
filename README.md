@@ -8,6 +8,15 @@
  <a href="https://www.biology.pitt.edu">Department of Biological Sciences</a>
 </p>
 
+<p align="center">
+    <a href="https://github.com/oasci-courses/pitt-biosc1630-2024f/actions">
+        <img src="https://github.com/oasci-courses/pitt-biosc1630-2024f/actions/workflows/docs.yml/badge.svg?branch=main" alt="Build Status ">
+    </a>
+    <a href="https://github.com/oasci/atomea/" target="_blank">
+        <img src="https://img.shields.io/github/repo-size/oasci-courses/pitt-biosc1630-2024f" alt="GitHub repo size">
+    </a>
+</p>
+
 Topics in computational biology will be explored using primary literature.
 Students will present research articles orally and complete a series of writing assignments that will culminate in producing a literature review paper.
 
