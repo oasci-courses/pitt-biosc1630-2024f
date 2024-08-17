@@ -8,3 +8,10 @@
         <strong>Points</strong></a>: 20
     </object>
 </p>
+
+Read and analyze all papers within the chosen theme
+Identify key findings, methodologies, and gaps
+Deliverable: 500-word literature review summary
+
+Based on the literature review, formulate a unique perspective or argument
+Deliverable: 300-word statement of your perspective and its significance

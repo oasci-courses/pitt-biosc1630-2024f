@@ -96,10 +96,4 @@ No class on Nov 27.
 
 ## Finals
 
-TODO:
-
-<!-- LINKS -->
-
-[module 01]: /modules/bioinformatics
-[module 02]: /modules/csb
-[module 03]: /modules/special
+No final exam will be administered for this course.

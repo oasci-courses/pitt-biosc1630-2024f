@@ -1,6 +1,7 @@
 nav:
   - theme.md
-  - methods.md
-  - results.md
-  - discussion.md
-  - final.md
+  - review.md
+  - outline.md
+  - intro.md
+  - overview.md
+  - challenges.md

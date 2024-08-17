@@ -1,0 +1,5 @@
+nav:
+  - Guidelines: index.md
+  - Components: components
+  - Typesetting: typesetting.md
+  - Style: style.md

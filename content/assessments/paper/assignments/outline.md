@@ -8,3 +8,7 @@
         <strong>Points</strong></a>: 20
     </object>
 </p>
+
+Create a detailed outline of the perspective article
+Include main points for each section
+Deliverable: Structured outline of the article

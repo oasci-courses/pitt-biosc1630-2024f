@@ -2,6 +2,5 @@ nav:
     - Perspective paper: index.md
     - Primers: primers.md
     - forming.md
-    - guidelines.md
-    # - ...
-    - assignments
+    - Guidelines: guidelines
+    - Assignments: assignments

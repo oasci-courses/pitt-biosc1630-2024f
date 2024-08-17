@@ -8,3 +8,6 @@
         <strong>Points</strong></a>: 20
     </object>
 </p>
+
+Write the section summarizing the current state of research
+Deliverable: Draft of current state section (about 1-1.5 pages)

@@ -1,4 +1,3 @@
-(paper:first-draft)=
 # First draft
 
 <p style="text-align: center;">
@@ -9,12 +8,6 @@
         <strong>Points</strong></a>: 7
     </object>
 </p>
-
-:::{note}
-:class: dropdown
-Students presenting on October 18, 2023, will have an optional one-week extension (i.e., due October 25).
-However, doing this first draft assignment will provide a good outline for your presentation.
-:::
 
 ## Objective
 

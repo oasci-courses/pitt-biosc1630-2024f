@@ -8,3 +8,7 @@
         <strong>Points</strong></a>: 20
     </object>
 </p>
+
+Choose one of the provided themes
+Read 2-3 key papers from the theme
+Deliverable: 250-word summary of the chosen theme and papers

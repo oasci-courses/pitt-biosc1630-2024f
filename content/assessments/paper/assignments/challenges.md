@@ -8,3 +8,6 @@
         <strong>Points</strong></a>: 20
     </object>
 </p>
+
+Write the section discussing main obstacles and limitations in the field
+Deliverable: Draft of challenges section (about 1-1.5 pages)

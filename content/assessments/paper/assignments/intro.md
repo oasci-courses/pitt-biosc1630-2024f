@@ -8,3 +8,6 @@
         <strong>Points</strong></a>: 20
     </object>
 </p>
+
+Write the introduction, clearly stating your perspective
+Deliverable: First draft of introduction (about 1 page)
