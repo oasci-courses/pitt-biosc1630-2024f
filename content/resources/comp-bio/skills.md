@@ -13,7 +13,7 @@ Encourage for everyone to submit something as this will contribute to their part
 
 After there is a lull in responses, move forward with slides that discuss what the instructor believes are important skills to have.
 
-#### Hard skills
+### Hard skills
 
 Hard skills are technical abilities or knowledge specific to a particular field.
 They can be learned through education, training, or on-the-job experience.
@@ -57,7 +57,7 @@ They can be learned through education, training, or on-the-job experience.
     -   [ChimeraX](https://www.cgl.ucsf.edu/chimerax/): A program for the interactive visualization and analysis of molecular structures and related data;
     -   [Blender](https://www.blender.org/): An open-source 3D creation suite.
 
-#### Soft skills
+### Soft skills
 
 Soft skills are often called “people” or “interpersonal” skills and relate to how you interact with and relate to others.
 
@@ -123,8 +123,8 @@ Juggling multiple projects is a norm in computational biology, necessitating ade
 
 Effective time management encompasses:
 
-- Clear goal-setting and prioritization
-- Breaking intricate tasks into manageable segments
-- Employing tools like calendars and to-do lists to stay organized
+-   Clear goal-setting and prioritization
+-   Breaking intricate tasks into manageable segments
+-   Employing tools like calendars and to-do lists to stay organized
 
 Furthermore, it entails adaptability to shifting circumstances, whether unexpected delays or novel priorities, and the flexibility to revise plans as necessary.

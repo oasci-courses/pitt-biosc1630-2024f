@@ -23,10 +23,10 @@ Your introduction should be approximately 750-1000 words and follow the [recomme
 
 ## Submission Guidelines
 
-- Submit your introduction draft as a PDF file through Canvas.
-- Use 12-point font, 1.5 line spacing, and 1-inch margins.
-- Include a header with your name, the course number, and the date.
-- Provide a reference list at the end of your introduction (not included in the word count).
+-   Submit your introduction draft as a PDF file through Canvas.
+-   Use 12-point font, 1.5 line spacing, and 1-inch margins.
+-   Include a header with your name, the course number, and the date.
+-   Provide a reference list at the end of your introduction (not included in the word count).
 
 ## Rubric
 

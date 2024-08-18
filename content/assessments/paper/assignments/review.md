@@ -15,17 +15,17 @@ This process mimics the initial stages of preparing a perspective piece in a gra
 
 ## Instructions
 
-1. Conduct a literature search to find 5-7 relevant scientific articles using your chosen perspective primer topic.
+1.  Conduct a literature search to find 5-7 relevant scientific articles using your chosen perspective primer topic.
 These should include at least three primary research articles.
-1. For each article, provide a:
-    - Full citation in APA format
-    - 2-3 sentence summary that touches on the main research question or objective, key methodology (for primary articles), or principal findings.
+1.  For each article, provide a:
+    -   Full citation in APA format
+    -   2-3 sentence summary that touches on the main research question or objective, key methodology (for primary articles), or principal findings.
 
 ## Submission guidelines
 
-- Submit your work as a PDF file through Canvas.
-- Use 12-point font, 1.5 line spacing, and 1-inch margins.
-- Include a header with your name, the course number, and the date.
+-   Submit your work as a PDF file through Canvas.
+-   Use 12-point font, 1.5 line spacing, and 1-inch margins.
+-   Include a header with your name, the course number, and the date.
 
 ## Rubric
 

@@ -88,9 +88,9 @@ The passage below has a score of 93% on [Grammarly](https://app.grammarly.com).
 Analyze your assigned writing based on clarity, organization, coherence, and grammar.
 Your feedback should following these guidelines:
 
-- **Identify strengths:** Highlight well-constructed sentences, effective transitions, and clear explanations.
-- **Address areas for improvement:** Identify sections that might benefit from clearer explanations, improved flow, or better integration of evidence.
-- **Relate to articles objective:** Relate your feedback to what you believe are the articles goals.
+-   **Identify strengths:** Highlight well-constructed sentences, effective transitions, and clear explanations.
+-   **Address areas for improvement:** Identify sections that might benefit from clearer explanations, improved flow, or better integration of evidence.
+-   **Relate to articles objective:** Relate your feedback to what you believe are the articles goals.
 
 ## Feedback session
 

@@ -32,11 +32,11 @@ It's the foundation upon which the rest of your article builds, making it a cruc
 ## Instructions
 
 1.  Cite key literature:
-   -   Reference seminal papers in your field
-   -   Include recent breakthrough studies
-   -   Cite works that directly support or contrast with your perspective
-   -   Use citations to demonstrate field knowledge and provide context
-   -   Be selective; focus on the most relevant and impactful works
+-   Reference seminal papers in your field
+-   Include recent breakthrough studies
+-   Cite works that directly support or contrast with your perspective
+-   Use citations to demonstrate field knowledge and provide context
+-   Be selective; focus on the most relevant and impactful works
 
 ## Opening statement
 
@@ -50,9 +50,9 @@ Clarity and precision are essential; avoid unnecessary jargon that might confuse
 
 There are several practical approaches you can take with your opening statement.
 
-- One option is highlighting a significant recent trend or advancement in your subfield. For example, you might note how recent advances in single-cell RNA sequencing have revolutionized our understanding of cellular heterogeneity in complex tissues.
-- Alternatively, briefly describe a current limitation or challenge that your perspective addresses. An illustration of this approach might be: "Despite the wealth of genomic data available, interpreting the functional impact of genetic variations remains a significant challenge in personalized medicine."
-- A third option is to summarize the state of research in your particular area of focus, such as explaining how the integration of machine learning techniques with structural biology has opened new avenues for protein structure prediction and drug design.
+-   One option is highlighting a significant recent trend or advancement in your subfield. For example, you might note how recent advances in single-cell RNA sequencing have revolutionized our understanding of cellular heterogeneity in complex tissues.
+-   Alternatively, briefly describe a current limitation or challenge that your perspective addresses. An illustration of this approach might be: "Despite the wealth of genomic data available, interpreting the functional impact of genetic variations remains a significant challenge in personalized medicine."
+-   A third option is to summarize the state of research in your particular area of focus, such as explaining how the integration of machine learning techniques with structural biology has opened new avenues for protein structure prediction and drug design.
 
 Whichever approach you choose, ensure that your statement provides a clear foundation for the rest of your perspective.
 It should create a logical bridge between your opening and the main body of your presentation, setting the stage for a more detailed discussion.
@@ -68,9 +68,9 @@ While maintaining a professional tone, try to spark curiosity or intrigue about 
 Consider ending your opening with a subtle hook leading to the rest of your presentation, encouraging your audience to stay engaged.
 To illustrate these principles, consider the following examples of effective opening statements:
 
-1. For a talk on network biology: "The rise of high-throughput interaction data has transformed our view of cellular systems from linear pathways to complex, interconnected networks."
-2. For a perspective on genomic data privacy: "As genomic sequencing becomes increasingly accessible, protecting individual genetic privacy while enabling valuable research has emerged as a critical challenge in bioinformatics."
-3. For a presentation on computational drug discovery: "The synergy between artificial intelligence and molecular modeling is accelerating the identification of potential drug candidates, promising to revolutionize the pharmaceutical industry."
+1.  For a talk on network biology: "The rise of high-throughput interaction data has transformed our view of cellular systems from linear pathways to complex, interconnected networks."
+2.  For a perspective on genomic data privacy: "As genomic sequencing becomes increasingly accessible, protecting individual genetic privacy while enabling valuable research has emerged as a critical challenge in bioinformatics."
+3.  For a presentation on computational drug discovery: "The synergy between artificial intelligence and molecular modeling is accelerating the identification of potential drug candidates, promising to revolutionize the pharmaceutical industry."
 
 Each of these openings succinctly introduces a specific area of computational biology, hints at its importance or a current challenge, and sets the stage for a more in-depth discussion.
 
@@ -100,11 +100,11 @@ As you approach the end of your background funnel, clearly state the purpose and
 
 Key considerations:
 
-1. Ensure a smooth flow of ideas from broad to specific, with each sentence logically leading to the next.
-2. Provide enough context for understanding to maintain focus on your specific topic.
-3. Be mindful of your audience's background, explaining concepts appropriately for undergraduates.
-4. Use precise language to convey complex ideas efficiently within the 6-8 sentence constraint.
-5. End with a clear link to your specific research question or topic, setting up the rest of your presentation or paper.
+1.  Ensure a smooth flow of ideas from broad to specific, with each sentence logically leading to the next.
+2.  Provide enough context for understanding to maintain focus on your specific topic.
+3.  Be mindful of your audience's background, explaining concepts appropriately for undergraduates.
+4.  Use precise language to convey complex ideas efficiently within the 6-8 sentence constraint.
+5.  End with a clear link to your specific research question or topic, setting up the rest of your presentation or paper.
 
 ## Current gaps
 
@@ -130,15 +130,12 @@ Briefly introduce your main argument or approach, explaining how it contributes 
 1.  Your perspective
     -   Introduce your main argument or approach
     -   Briefly explain its contribution to the field
-
--   End with a clear thesis statement that encapsulates the main argument or perspective you will present.
-
 2.  End with a clear thesis statement:
-   -   Articulate your main argument or core perspective
-   -   Make it specific and debatable
-   -   Ensure it sets up the rest of your article
-   -   Craft it carefully as the focal point of your paper
-   -   Make it clear enough to identify your position, yet intriguing enough to encourage further reading
+-   Articulate your main argument or core perspective
+-   Make it specific and debatable
+-   Ensure it sets up the rest of your article
+-   Craft it carefully as the focal point of your paper
+-   Make it clear enough to identify your position, yet intriguing enough to encourage further reading
 
 ## Article structure
 
