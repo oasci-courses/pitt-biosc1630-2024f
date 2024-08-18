@@ -1,21 +1,21 @@
-# Lecture 01
-
-**Date:** Aug 28, 2024
+<h1 align="center">
+<b>Lecture 01</b><br>
+Course Overview and Anatomy of research
+</h1>
+<p align="center"><b>Date: </b>Aug 28, 2024</p>
 
 ## Learning objectives
 
 What you should be able to do after today's lecture:
 
--   Learn about your instructor.
--   Identify relevant skills for computational biologists.
--   Understand course structure and expectations.
--   Learn guidelines for giving and receiving critical feedback.
--   Compare and contrast different types of scientific articles and understand how these articles target different audiences.
--   Learn strategies to find primary research articles that pertain to a question you care about.
+1.   Understand course structure and expectations.
+2.   Compare and contrast different types of scientific articles and understand how these articles target different audiences.
+3.   Learn strategies to find primary research articles that pertain to a question you care about.
+4.   Learn guidelines for giving and receiving critical feedback.
 
-## L1 - Meet the instructor
+## Meet the instructor
 
-**Duration:** 10 minutes
+**Duration:** 5 minutes
 
 Begin the class with an introduction to the instructor.
 This will help the students connect with the instructor and begin a sense of belonging.
@@ -39,69 +39,39 @@ Students are likelier to engage with course materials when they feel a personal 
     Share the teaching philosophy and approach to the course.
     This could include goals for student learning, beliefs about effective teaching methods, and how to engage students in the course material.
 
-## D1 - Skills for computational biologists
+## Course overview
 
-**Duration:** 10 minutes
-
-Open up a [Top Hat](https://app.tophat.com) discussion question and prompt the students to submit what skills should a successful computational biologist have.
-Make the responses pop-up on the screen with anonymous mode turned on.
-As answers are submitted, the instructor should discuss these aspects and add context.
-Encourage for everyone to submit something as this will contribute to their participation grade.
-
-After there is a lull in responses, move forward with slides that discuss what the instructor believes are important skills to have.
-
-## L2 - Course overview
-
-**Duration:** 30 minutes
-
-Setting clear expectations for students at the beginning of a course can help them feel more confident and motivated.
-By providing a detailed overview of the course structure and expectations, you can help students understand what they need to do to succeed in the course.
+**Duration:** 35 minutes
 
 Provide an overview of the course structure and expectations, including the class format, grading policies, and important dates or deadlines.
 This will help students understand what is expected of them and how to succeed in the course.
 
-## D2 - Providing and receiving feedback
+## Perspective and primers
 
-**Duration:** 5 minutes
+**Duration:** 20 minutes
 
-Feedback is an essential part of the learning process.
-By providing constructive criticism, you can help students identify areas for improvement and develop their skills.
-However, it is also crucial for students to learn how to respond to feedback in a productive manner by reflecting on the feedback they receive and using it to improve their work.
-
-Introduce guidelines for giving and receiving critical feedback, including providing constructive criticism and responding to feedback in a productive manner.
-This will help students learn how to improve their work through feedback and how to provide helpful feedback to others.
-
-## A1 - Feedback practice
-
-**Duration:** 15 minutes
-
-Lead this activity.
+Provide an overview of the course structure and expectations, including the class format, grading policies, and important dates or deadlines.
+This will help students understand what is expected of them and how to succeed in the course.
 
 ## Break
 
 **Duration:** 10 minutes
 
-## D3 - Types of scientific articles
+## Bureaucracy and anatomy of research
 
-**Duration:** __ minutes
+**Duration:** 30 minutes
 
-Scientific literature is diverse and can be challenging for students to navigate.
-By introducing students to different types of scientific articles, you can help them develop the skills they need to evaluate scientific literature effectively.
+Provide students with a comprehensive understanding of the structures and processes that shape scientific inquiry in fields like computational biology.
+By exploring funding mechanisms, career paths, publication practices, and impact metrics, students will gain valuable insights into the forces that influence research priorities and career trajectories.
 
-Compare and contrast different types of scientific articles, including primary research articles, review articles and opinion pieces.
-Discuss how these articles target different audiences and serve other purposes.
-
-## L3 - How to find scientific articles
+## How to find scientific articles
 
 **Duration:** __ minutes
 
 Finding relevant scientific literature is an essential skill for computational biologists.
 By providing strategies for effective searching, you can help students develop the skills to find primary research articles that pertain to their research interests.
 Search engines and databases are powerful tools for finding scientific literature.
-Still, students need to learn how to use them effectively.
 
-## A2 - Guided literature search
+## Overview of next week's paper
 
-**Duration:** 25 minutes
-
-Lead [this activity](activity:lit-search).
+**Duration:** 5 minutes

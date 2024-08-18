@@ -10,8 +10,6 @@ Jump to [this week](#week-1).
 
 **Wednesday** (Aug 28) [Lecture 01](../../lectures/01/)
 
--   ^^Topics^^: TODO
-
 ## Week 2
 
 **Wednesday** (Sep 4) [Lecture 02](../../lectures/02/)
