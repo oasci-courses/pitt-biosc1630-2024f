@@ -3,17 +3,61 @@
 Here are journals that could feature computational biology research.
 This is not exhaustive, but focuses on the well-known journals.
 
-## Bioinformatics
+## Computational Biology and Bioinformatics
 
 !!! quote "[**Bioinformatics**](https://academic.oup.com/bioinformatics)"
     [**Scope**](https://academic.oup.com/bioinformatics/pages/instructions_for_authors#Scope):
     *Bioinformatics* provides a forum for the exchange of information in the fields of computational molecular biology and genome bioinformatics, with emphasis on new algorithms and databases that advance the progress of bioinformatics and biomedical research in a significant manner.
 
+!!! quote "[**BMC Bioinformatics**](https://bmcbioinformatics.biomedcentral.com/)"
+    [**Scope**](https://bmcbioinformatics.biomedcentral.com/about):
+    *BMC Bioinformatics* is an open access, peer-reviewed journal that considers articles describing novel computational algorithms and software, models and tools, including statistical methods, machine learning and artificial intelligence, as well as systems biology.
+
+!!! quote "[**Nucleic Acids Research**](https://academic.oup.com/nar)"
+    [**Scope**](https://academic.oup.com/nar/pages/About):
+    Nucleic Acids Research (NAR) publishes the results of leading-edge research into physical, chemical, biochemical and biological aspects of nucleic acids and proteins involved in nucleic acid metabolism and/or interactions.
+    It enables the rapid publication of papers under the following categories:
+
+    -   Chemistry and Nucleic Acid Chemistry
+    -   Computational biology
+    -   Data Resources and Analyses
+    -   Gene Regulation
+    -   Chromatin and Epigenetics
+    -   Genome Integrity, Repair and Replication
+    -   Genomics
+    -   Molecular Biology
+    -   Nucleic Acid Enzymes
+    -   RNA and RNA-protein complexes
+    -   Structural Biology
+    -   Synthetic Biology and Bioengineering
+
 !!! quote "[**Briefings in Bioinformatics**](https://academic.oup.com/bib)"
     [**Scope**](https://academic.oup.com/bib/pages/General_Instructions#Aims):
     *Briefings in Bioinformatics* aims to provide an indispensable resource for the experimental practitioner seeking awareness of the disparate sources of data and analytical tools of contemporary biology, biotechnology and medicine based on an explicit molecular description.
     This includes all areas of genomics, proteomics, lipidomics, glycomics, metabolomics, interactomics and network biology, imaging, systems biology, phenomics, chemoinformatics, computational biology and clinical/medical informatics that have a clear molecular foundation to the study.
-    Large-scale instrumentation and computerisation is reducing the time that needs to be spent in the laboratory. Instead, the rate-limiting step is the analysis and interpretation of data.
+    Large-scale instrumentation and computerisation is reducing the time that needs to be spent in the laboratory.
+    Instead, the rate-limiting step is the analysis and interpretation of data.
+
+!!! quote "[**PLOS Computational Biology**](https://journals.plos.org/ploscompbiol/)"
+    [**Scope**](https://journals.plos.org/ploscompbiol/s/journal-information):
+    *PLOS Computational Biology* features works of exceptional significance that further our understanding of living systems at all scales—from molecules and cells, to patient populations and ecosystems—through the application of computational methods.
+    Readers include life and computational scientists, who can take the important findings presented here to the next level of discovery.
+
+!!! quote "[**Journal of Computational Biology**](https://home.liebertpub.com/publications/journal-of-computational-biology/31/overview)"
+    [**Scope**](https://home.liebertpub.com/publications/journal-of-computational-biology/31/overview):
+    *Journal of Computational Biology* publishes articles whose primary contributions are the development and application of new methods in computational biology, including algorithmic, statistical, mathematical, machine learning and artificial intelligence contributions.
+    The journal welcomes novel methods that tackle established problems within computational biology; novel methods and frameworks that anticipate new problems and data types arising in computational biology; and novel methods that are inspired from studying natural computation.
+    Methods should be tested on real and/or simulated biological data whenever feasible.
+    Papers whose primary contributions are theoretical are also welcome.
+    Available only online, this is an essential journal for scientists and students who want to keep abreast of developments in bioinformatics and computational biology.
+
+!!! quote "[**Computational Biology and Chemistry**](https://www.sciencedirect.com/journal/computational-biology-and-chemistry)"
+    [**Scope**](https://www.sciencedirect.com/journal/computational-biology-and-chemistry/about/aims-and-scope):
+    *Computational Biology and Chemistry* publishes original research papers and review articles in all areas of computational life sciences.
+    High quality research contributions with a major computational component in the areas of nucleic acid and protein sequence research, molecular evolution, molecular genetics (functional genomics and proteomics), theory and practice of either biology-specific or chemical-biology-specific modeling, and structural biology of nucleic acids and proteins are particularly welcome.
+    Exceptionally high quality research work in bioinformatics, systems biology, ecology, computational pharmacology, metabolism, biomedical engineering, epidemiology, and statistical genetics will also be considered.
+
+## Chemical Informatics and Molecular Modeling
 
 !!! quote "[**Journal of Cheminformatics**](https://jcheminf.biomedcentral.com/)"
     [**Scope**](https://jcheminf.biomedcentral.com/about):
@@ -24,33 +68,6 @@ This is not exhaustive, but focuses on the well-known journals.
     - chemical information systems, software and databases, and molecular modelling
     - chemical structure representations and their use in structure, substructure, and similarity searching of chemical substance and chemical reaction databases
     - computer and molecular graphics, computer-aided molecular design, expert systems, QSAR, and data mining techniques
-
-!!! quote "[**Genomics, Proteomics & Bioinformatics**](https://academic.oup.com/gpb)"
-    [**Scope**](https://academic.oup.com/gpb/pages/about):
-    *Genomics, Proteomics and Bioinformatics* (GPB) is interested in submissions across all areas of life science, biology, and biomedicine, focusing on large data acquisition, analysis, and curation.
-
-    The goals of GPB are to disseminate new frontiers in the field of omics and bioinformatics, to publish high-quality discoveries in a fast-pace.
-
-## Computational biology
-
-!!! quote "[**PLOS Computational Biology**](https://journals.plos.org/ploscompbiol/)"
-    [**Scope**](https://journals.plos.org/ploscompbiol/s/journal-information):
-    *PLOS Computational Biology* features works of exceptional significance that further our understanding of living systems at all scales—from molecules and cells, to patient populations and ecosystems—through the application of computational methods.
-    Readers include life and computational scientists, who can take the important findings presented here to the next level of discovery.
-
-!!! quote "[**Journal of Theoretical Biology**](https://www.sciencedirect.com/journal/journal-of-theoretical-biology)"
-    [**Scope**](https://www.sciencedirect.com/journal/journal-of-theoretical-biology/about/aims-and-scope):
-    The *Journal of Theoretical Biology* is the leading forum for theoretical perspectives that give insight into biological processes.
-    It covers a very wide range of topics and is of interest to biologists in many areas of research.
-
-!!! quote "[**Journal of Chemical Theory and Computation**](https://pubs.acs.org/journal/jctcce)"
-    [**Scope**](https://pubs.acs.org/page/jctcce/about.html):
-    The *Journal of Chemical Theory and Computation* publishes papers reporting new theories, methodology in quantum electronic structure, molecular dynamics, and statistical mechanics and/or their important applications.
-    Specific topics include advances in ab initio quantum mechanics, density functional theory, design and properties of new materials, surface science, Monte Carlo simulations, solvation models, QM/MM calculations, biomolecular structure prediction, and molecular dynamics in the broadest sense, including gas-phase dynamics, ab initio dynamics, biomolecular dynamics, and protein folding/phase separation.
-    New theories for quantum computers and their applications are welcome, as well as the combination of data science, theory, and computations relevant to chemistry.
-    We also welcome papers on computational chemistry packages that present innovative methods.
-    The Journal does not consider papers that are straightforward applications on only single-class systems of well-established methods, including DFT, traditional wave function theories, and molecular dynamics.
-    The Journal favors submissions that include advances in theory, methodology, and data science with applications to compelling problems in chemistry and materials science.
 
 !!! quote "[**Journal of Chemical Information and Modeling**](https://pubs.acs.org/journal/jcisd8)"
     [**Scope**](https://pubs.acs.org/page/jcisd8/about.html):
@@ -76,19 +93,70 @@ This is not exhaustive, but focuses on the well-known journals.
 
     Contributions on computer-aided molecular modeling studies in pharmaceutical, polymer, materials and surface sciences, as well as other molecular-based disciplines, are particularly welcome.
 
-!!! quote "[**Journal of Computational Biology**](https://home.liebertpub.com/publications/journal-of-computational-biology/31/overview)"
-    [**Scope**](https://home.liebertpub.com/publications/journal-of-computational-biology/31/overview):
-    *Journal of Computational Biology* publishes articles whose primary contributions are the development and application of new methods in computational biology, including algorithmic, statistical, mathematical, machine learning and artificial intelligence contributions.
-    The journal welcomes novel methods that tackle established problems within computational biology; novel methods and frameworks that anticipate new problems and data types arising in computational biology; and novel methods that are inspired from studying natural computation.
-    Methods should be tested on real and/or simulated biological data whenever feasible.
-    Papers whose primary contributions are theoretical are also welcome.
-    Available only online, this is an essential journal for scientists and students who want to keep abreast of developments in bioinformatics and computational biology.
+## Theoretical and Computational Chemistry
 
-!!! quote "[**Computational Biology and Chemistry**](https://www.sciencedirect.com/journal/computational-biology-and-chemistry)"
-    [**Scope**](https://www.sciencedirect.com/journal/computational-biology-and-chemistry/about/aims-and-scope):
-    *Computational Biology and Chemistry* publishes original research papers and review articles in all areas of computational life sciences.
-    High quality research contributions with a major computational component in the areas of nucleic acid and protein sequence research, molecular evolution, molecular genetics (functional genomics and proteomics), theory and practice of either biology-specific or chemical-biology-specific modeling, and structural biology of nucleic acids and proteins are particularly welcome.
-    Exceptionally high quality research work in bioinformatics, systems biology, ecology, computational pharmacology, metabolism, biomedical engineering, epidemiology, and statistical genetics will also be considered.
+!!! quote "[**Journal of Theoretical Biology**](https://www.sciencedirect.com/journal/journal-of-theoretical-biology)"
+    [**Scope**](https://www.sciencedirect.com/journal/journal-of-theoretical-biology/about/aims-and-scope):
+    The *Journal of Theoretical Biology* is the leading forum for theoretical perspectives that give insight into biological processes.
+    It covers a very wide range of topics and is of interest to biologists in many areas of research.
+
+!!! quote "[**Journal of Chemical Theory and Computation**](https://pubs.acs.org/journal/jctcce)"
+    [**Scope**](https://pubs.acs.org/page/jctcce/about.html):
+    The *Journal of Chemical Theory and Computation* publishes papers reporting new theories, methodology in quantum electronic structure, molecular dynamics, and statistical mechanics and/or their important applications.
+    Specific topics include advances in ab initio quantum mechanics, density functional theory, design and properties of new materials, surface science, Monte Carlo simulations, solvation models, QM/MM calculations, biomolecular structure prediction, and molecular dynamics in the broadest sense, including gas-phase dynamics, ab initio dynamics, biomolecular dynamics, and protein folding/phase separation.
+    New theories for quantum computers and their applications are welcome, as well as the combination of data science, theory, and computations relevant to chemistry.
+    We also welcome papers on computational chemistry packages that present innovative methods.
+    The Journal does not consider papers that are straightforward applications on only single-class systems of well-established methods, including DFT, traditional wave function theories, and molecular dynamics.
+    The Journal favors submissions that include advances in theory, methodology, and data science with applications to compelling problems in chemistry and materials science.
+
+## Structural Biology
+
+!!! quote "[**Structure**](https://www.cell.com/structure/home)"
+    [**Scope**](https://www.cell.com/structure/aims):
+    *Structure* aims to publish papers of exceptional interest in the field of structural biology.
+    The journal strives to be essential reading for structural biologists, as well as biologists and biochemists that are interested in macromolecular structure and function.
+    *Structure* strongly encourages the submission of manuscripts that present structural and molecular insights into biological function and mechanism.
+    Other reports that address fundamental questions in structural biology, such as structure-based examinations of protein evolution, folding, and/or design, will also be considered.
+    We will consider the application of any method, experimental or computational, at high or low resolution, to conduct structural investigations, as long as the method is appropriate for the biological, functional, and mechanistic question(s) being addressed.
+    Likewise, reports describing single-molecule analysis of biological mechanisms are welcome.
+    TODO:
+
+!!! quote "[**Biophysical Journal**](https://www.cell.com/biophysj/home)"
+    [**Scope**](https://www.cell.com/biophysj/aims):
+    BJ publishes original articles, letters, and perspectives on important problems in modern biophysics.
+    Papers should be written to be of interest to a broad community of biophysicists.
+    BJ welcomes experimental studies that use quantitative physical approaches for the study of biological systems, including or spanning scales from the molecule to the whole organism.
+    Experimental studies of a purely descriptive or phenomenological nature, with no theoretical or mechanistic underpinning, are not appropriate for publication in BJ.
+    Theoretical studies should offer new insights into the understanding of experimental results or suggest new experimentally testable hypotheses.
+    Articles reporting significant methodological or technological advances, which have potential to open new areas of biophysical investigation, are also suitable for publication in BJ.
+    Papers describing improvements in the accuracy or speed of existing methods or extra detail within methods described previously are not suitable for BJ.
+
+!!! quote "[**PROTEINS: Structure, Function, and Bioinformatics**](https://onlinelibrary.wiley.com/journal/10970134?journalRedirectCheck=true)"
+    [**Scope**](https://onlinelibrary.wiley.com/page/journal/10970134/homepage/productinformation.html):
+    *PROTEINS: Structure, Function, and Bioinformatics* publishes original reports of significant experimental and analytic research in all areas of protein research: structure, function, computation, genetics, and design.
+    The journal encourages reports that present new experimental or computational approaches for interpreting and understanding data from biophysical chemistry, structural studies of proteins and macromolecular assemblies, alterations of protein structure and function engineered through techniques of molecular biology and genetics, functional analyses under physiologic conditions, as well as the interactions of proteins with receptors, nucleic acids, or other specific ligands or substrates.
+    Research in protein and peptide biochemistry directed toward synthesizing or characterizing molecules that simulate aspects of the activity of proteins, or that act as inhibitors of protein function, is also within the scope of PROTEINS.
+
+!!! quote "[**Protein Science**](https://onlinelibrary.wiley.com/journal/1469896x)"
+    [**Scope**](https://onlinelibrary.wiley.com/journal/1469896x):
+    *Protein Science*, the flagship journal of The Protein Society, serves as an international forum for publishing original reports on all scientific aspects of protein molecules.
+    The Journal publishes papers by leading scientists from all over the world that report on advances in the understanding of proteins in the broadest sense.
+    *Protein Science* aims to unify this field by cutting across established disciplinary lines and focusing on “protein-centered” science.
+
+## Genomics and proteomics
+
+!!! quote "[**Genomics, Proteomics & Bioinformatics**](https://academic.oup.com/gpb)"
+    [**Scope**](https://academic.oup.com/gpb/pages/about):
+    *Genomics, Proteomics and Bioinformatics* (GPB) is interested in submissions across all areas of life science, biology, and biomedicine, focusing on large data acquisition, analysis, and curation.
+
+    The goals of GPB are to disseminate new frontiers in the field of omics and bioinformatics, to publish high-quality discoveries in a fast-pace.
+
+## Neuroscience
+
+!!! quote "[**ACS Chemical Neuroscience**](https://pubs.acs.org/journal/acncdm)"
+    [**Scope**](https://pubs.acs.org/page/acncdm/about.html):
+    *ACS Chemical Neuroscience* publishes high-quality research articles and reviews that showcase chemical, quantitative biological, biophysical and bioengineering approaches to the understanding of the nervous system and to the development of new treatments for neurological disorders.
+    Research in the journal focuses on aspects of chemical neurobiology and bio-neurochemistry.
 
 ## Biology
 
@@ -104,31 +172,11 @@ Journal scopes that encompass mainly biology, but still overlaps with computatio
     The journal's scope includes diverse biological areas: insights into molecular structure and function, cancer biology, cell biology, genetics, developmental biology, computational methods, global health, evolutionary biology, immunology, inflammation, neuroscience, plant biology, stem cell biology, regenerative medicine, and molecular mechanisms.
     It welcomes studies offering novel insights that encompasses experimental and computational approaches.
 
-!!! quote "[**Structure**](https://www.cell.com/structure/home)"
-    [**Scope**](https://www.cell.com/structure/aims):
-    *Structure* aims to publish papers of exceptional interest in the field of structural biology.
-    The journal strives to be essential reading for structural biologists, as well as biologists and biochemists that are interested in macromolecular structure and function.
-    *Structure* strongly encourages the submission of manuscripts that present structural and molecular insights into biological function and mechanism.
-    Other reports that address fundamental questions in structural biology, such as structure-based examinations of protein evolution, folding, and/or design, will also be considered.
-    We will consider the application of any method, experimental or computational, at high or low resolution, to conduct structural investigations, as long as the method is appropriate for the biological, functional, and mechanistic question(s) being addressed. Likewise, reports describing single-molecule analysis of biological mechanisms are welcome.
-
 !!! quote "[**Cell**](https://www.cell.com/cell/home)"
     [**Scope**](https://www.cell.com/cell/aims):
     *Cell* publishes findings of unusual significance in any area of experimental biology, including but not limited to cell biology, molecular biology, neuroscience, immunology, virology and microbiology, cancer, human genetics, systems biology, signaling, and disease mechanisms and therapeutics.
     The basic criterion for considering papers is whether the results provide significant conceptual advances into, or raise provocative questions and hypotheses regarding, an interesting and important biological question.
     In addition to primary research articles in four formats, *Cell* features review and opinion articles on recent research advances and issues of interest to its broad readership in the leading edge section.
-
-!!! quote "[**PROTEINS: Structure, Function, and Bioinformatics**](https://onlinelibrary.wiley.com/journal/10970134?journalRedirectCheck=true)"
-    [**Scope**](https://onlinelibrary.wiley.com/page/journal/10970134/homepage/productinformation.html):
-    *PROTEINS: Structure, Function, and Bioinformatics* publishes original reports of significant experimental and analytic research in all areas of protein research: structure, function, computation, genetics, and design.
-    The journal encourages reports that present new experimental or computational approaches for interpreting and understanding data from biophysical chemistry, structural studies of proteins and macromolecular assemblies, alterations of protein structure and function engineered through techniques of molecular biology and genetics, functional analyses under physiologic conditions, as well as the interactions of proteins with receptors, nucleic acids, or other specific ligands or substrates.
-    Research in protein and peptide biochemistry directed toward synthesizing or characterizing molecules that simulate aspects of the activity of proteins, or that act as inhibitors of protein function, is also within the scope of PROTEINS.
-
-!!! quote "[**Protein Science**](https://onlinelibrary.wiley.com/journal/1469896x)"
-    [**Scope**](https://onlinelibrary.wiley.com/journal/1469896x):
-    *Protein Science*, the flagship journal of The Protein Society, serves as an international forum for publishing original reports on all scientific aspects of protein molecules.
-    The Journal publishes papers by leading scientists from all over the world that report on advances in the understanding of proteins in the broadest sense.
-    *Protein Science* aims to unify this field by cutting across established disciplinary lines and focusing on “protein-centered” science.
 
 !!! quote "[**ACS Chemical Biology**](https://pubs.acs.org/journal/acbcct)"
     [**Scope**](https://pubs.acs.org/page/acbcct/about.html):
@@ -145,11 +193,6 @@ Journal scopes that encompass mainly biology, but still overlaps with computatio
     [**Scope**](https://pubs.acs.org/page/jpcbfk/about.html):
     The *Journal of Physical Chemistry B* (JPC B) publishes experimental, theoretical and computational research in the area of biophysics, biochemistry, biomaterials, and soft matter.
     Examples of topics of special interest include: biomolecules (proteins, nucleic acids, membranes, enzyme catalysis); biomaterials (including nano-biomaterials); polymers and colloids; liquids (properties of liquids, ionic liquids, deep eutectic solvents, and fluid interfaces, and solid-liquid interfaces, bulk studies of electrolytes); surfactants; glasses; and spectroscopy, charge, and energy transfer of molecules in solution.
-
-!!! quote "[**ACS Chemical Neuroscience**](https://pubs.acs.org/journal/acncdm)"
-    [**Scope**](https://pubs.acs.org/page/acncdm/about.html):
-    *ACS Chemical Neuroscience* publishes high-quality research articles and reviews that showcase chemical, quantitative biological, biophysical and bioengineering approaches to the understanding of the nervous system and to the development of new treatments for neurological disorders.
-    Research in the journal focuses on aspects of chemical neurobiology and bio-neurochemistry.
 
 !!! quote "[**Biochemistry**](https://pubs.acs.org/journal/bichaw)"
     [**Scope**](https://pubs.acs.org/page/bichaw/about.html):
@@ -172,4 +215,5 @@ Journal scopes that encompass mainly biology, but still overlaps with computatio
 
 !!! quote "[**PNAS**](https://www.pnas.org/)"
     [**Scope**](https://www.pnas.org/about):
-    The *Proceedings of the National Academy of Sciences *(PNAS), a peer reviewed journal of the National Academy of Sciences (NAS), is an authoritative source of high-impact, original research that broadly spans the biological, physical, and social sciences. The journal is global in scope and submission is open to all researchers worldwide.
+    The *Proceedings of the National Academy of Sciences* (PNAS), a peer reviewed journal of the National Academy of Sciences (NAS), is an authoritative source of high-impact, original research that broadly spans the biological, physical, and social sciences.
+    The journal is global in scope and submission is open to all researchers worldwide.
