@@ -1,5 +1,7 @@
 # Possible articles
 
+These are a collection of possible research articles published during 2023.
+
 ## JCTC
 
 -   https://pubs.acs.org/doi/10.1021/acs.jctc.2c01189
@@ -15,3 +17,41 @@
 -   https://academic.oup.com/bioinformatics/article/39/2/btad079/7056637
 -   https://academic.oup.com/bioinformatics/article/39/7/btad392/7210256
 
+## Nucleic Acids Research
+
+-   https://academic.oup.com/nar/article/51/1/68/6965449
+-   https://academic.oup.com/nar/article/51/2/553/6976060
+-   https://academic.oup.com/nar/article/51/3/1208/6985831
+-   https://academic.oup.com/nar/article/51/6/2759/7068371
+-   https://academic.oup.com/nar/article/51/13/6578/7184155
+-   https://academic.oup.com/nar/article/51/14/7184/7217051
+-   https://academic.oup.com/nar/article/51/14/7666/7205751
+-   https://academic.oup.com/nar/article/51/15/8237/7209325
+-   https://academic.oup.com/nar/article/51/15/8255/7217059
+
+## PLOS Computational Biology
+
+-   https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011301
+-   https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011435
+-   https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011099
+-   https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011035
+-   https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010956
+
+## Journal of Cheminformatics
+
+-   https://jcheminf.biomedcentral.com/articles/10.1186/s13321-023-00691-2
+-   https://jcheminf.biomedcentral.com/articles/10.1186/s13321-023-00769-x
+
+## Journal of Chemical Information and Modeling
+
+-   https://pubs.acs.org/doi/10.1021/acs.jcim.3c01469
+-   https://pubs.acs.org/doi/10.1021/acs.jcim.3c01090
+-   https://pubs.acs.org/doi/10.1021/acs.jcim.3c00832
+-   https://pubs.acs.org/doi/10.1021/acs.jcim.3c00554
+-   https://pubs.acs.org/doi/10.1021/acs.jcim.3c00874
+-   https://pubs.acs.org/doi/10.1021/acs.jcim.3c00477
+-   https://pubs.acs.org/doi/10.1021/acs.jcim.2c01546
+-   https://pubs.acs.org/doi/10.1021/acs.jcim.3c00013
+-   https://pubs.acs.org/doi/10.1021/acs.jcim.3c00042
+-   https://pubs.acs.org/doi/10.1021/acs.jcim.2c01099
+-   https://pubs.acs.org/doi/10.1021/acs.jcim.2c01028
