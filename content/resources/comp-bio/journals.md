@@ -143,14 +143,6 @@ This is not exhaustive, but focuses on the well-known journals.
     The Journal publishes papers by leading scientists from all over the world that report on advances in the understanding of proteins in the broadest sense.
     *Protein Science* aims to unify this field by cutting across established disciplinary lines and focusing on “protein-centered” science.
 
-## Genomics and proteomics
-
-!!! quote "[**Genomics, Proteomics & Bioinformatics**](https://academic.oup.com/gpb)"
-    [**Scope**](https://academic.oup.com/gpb/pages/about):
-    *Genomics, Proteomics and Bioinformatics* (GPB) is interested in submissions across all areas of life science, biology, and biomedicine, focusing on large data acquisition, analysis, and curation.
-
-    The goals of GPB are to disseminate new frontiers in the field of omics and bioinformatics, to publish high-quality discoveries in a fast-pace.
-
 ## Neuroscience
 
 !!! quote "[**ACS Chemical Neuroscience**](https://pubs.acs.org/journal/acncdm)"
