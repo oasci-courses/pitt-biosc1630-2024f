@@ -55,3 +55,15 @@ These are a collection of possible research articles published during 2023.
 -   https://pubs.acs.org/doi/10.1021/acs.jcim.3c00042
 -   https://pubs.acs.org/doi/10.1021/acs.jcim.2c01099
 -   https://pubs.acs.org/doi/10.1021/acs.jcim.2c01028
+
+## Journal of Computer-Aided Molecular Design
+
+-   https://link.springer.com/article/10.1007/s10822-023-00498-1
+-   https://link.springer.com/article/10.1007/s10822-023-00499-0
+-   https://link.springer.com/article/10.1007/s10822-023-00503-7
+
+## Biophysical Journal
+
+-   https://www.cell.com/biophysj/fulltext/S0006-3495(23)00652-5
+-   https://www.cell.com/biophysj/fulltext/S0006-3495(23)00097-8
+-   https://www.cell.com/biophysj/fulltext/S0006-3495(23)00037-1
