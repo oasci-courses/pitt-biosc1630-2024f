@@ -109,6 +109,13 @@ This is not exhaustive, but focuses on the well-known journals.
     The Journal does not consider papers that are straightforward applications on only single-class systems of well-established methods, including DFT, traditional wave function theories, and molecular dynamics.
     The Journal favors submissions that include advances in theory, methodology, and data science with applications to compelling problems in chemistry and materials science.
 
+!!! quote "[**Chemical Science**](https://pubs.rsc.org/en/journals/journalissues/sc)"
+    [**Scope**](https://www.rsc.org/journals-books-databases/about-journals/chemical-science): Our journal has a wide-ranging scope which covers the full breadth of the chemical sciences. The research we publish contains the sorts of novel ideas, challenging questions and progressive thinking that bring undiscovered breakthroughs within reach.
+
+    Your paper could focus on a single area, or cross many. It could be beyond the accepted bounds of the chemical sciences. It might address an immediate challenge, contribute to a future breakthrough or be wholly conceptual.
+
+    We’re a team from every field of the chemical sciences, and know from experience that breakthroughs that drive the solutions to global challenges can come from anywhere, at any time. You could even start an entirely new area of research.
+
 ## Structural Biology
 
 !!! quote "[**Structure**](https://www.cell.com/structure/home)"
