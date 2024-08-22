@@ -19,6 +19,6 @@ These are a collection of possible research articles published during 2023.
 -   https://academic.oup.com/bioinformatics/article/39/1/btad014/6989621
 -   https://academic.oup.com/nar/article/51/1/68/6965449
 -   https://academic.oup.com/nar/article/51/13/6578/7184155
--   https://academic.oup.com/nar/article/51/13/6578/7184155
+-   https://academic.oup.com/bioinformatics/article/39/2/btad079/7056637
 -   https://academic.oup.com/nar/article/51/6/2759/7068371
 -   https://academic.oup.com/nar/article/51/2/553/6976060
