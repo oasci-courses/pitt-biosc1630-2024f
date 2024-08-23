@@ -3,3 +3,5 @@
 TODO
 </h1>
 <p align="center"><b>Date: </b>Oct 23, 2024</p>
+
+## Learning objectives

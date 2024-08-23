@@ -14,13 +14,13 @@ Jump to [this week](#week-1).
 
 **Wednesday** (Sep 4) [Lecture 02](../../lectures/02/)
 
--   ^^Due at 1:00 pm^^: [L02 pre-class assignment](../../assessments/pre-class/l02/)
+-   ^^Due at 11:59 pm^^: [Theme](../assessments/paper/assignments/theme.md)
 
 ## Week 3
 
 **Wednesday** (Sep 11) [Lecture 03](../../lectures/03/)
 
--   ^^Due at 11:59 pm^^: [Theme](../assessments/paper/assignments/theme.md)
+-   ^^Due at 1:00 pm^^: [L03 pre-class assignment](../../assessments/pre-class/l03/)
 
 ## Week 4
 
