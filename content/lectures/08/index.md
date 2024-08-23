@@ -1,25 +1,7 @@
-# Lecture 08
+<h1 align="center">
+<b>Lecture 08</b><br>
+TODO
+</h1>
+<p align="center"><b>Date: </b>Oct 16, 2024</p>
 
-**Date:** Oct 16, 2024
-
-## Learning objectives
-
-What you should be able to do after today's lecture:
-
-TODO:
-
-## Readings
-
-TODO:
-
-## Presentation
-
-TODO:
-
-<!-- <iframe src="https://slides.com/aalexmmaldonado/biosc1540-2024s-l01/embed?byline=hidden&share=hidden" width="100%" height="600" title="biosc1540-2024s-L01" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> -->
-
-<!-- <p style="text-align: center;">
-    <object hspace="50">
-        <a href="/files/slides/pdfs/biosc1540-2024s-l01.pdf" target="_blank">PDF</a>
-    </object>
-</p> -->
+**Today's paper:** Milman, O., Yelin, I., & Kishony, R. (2023). Systematic identification of gene-altering programmed inversions across the bacterial domain. Nucleic Acids Research, 51(2), 553-573. DOI: [10.1093/nar/gkac1166](https://doi.org/10.1093/nar/gkac1166)

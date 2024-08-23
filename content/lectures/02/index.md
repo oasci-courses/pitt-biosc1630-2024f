@@ -4,4 +4,4 @@ TODO
 </h1>
 <p align="center"><b>Date: </b>Sep 4, 2024</p>
 
-**Today's paper:** Heid, E., Greenman, K. P., Chung, Y., Li, S. C., Graff, D. E., Vermeire, F. H., ... & McGill, C. J. (2023). Chemprop: a machine learning package for chemical property prediction. *Journal of Chemical Information and Modeling, 64*(1), 9-17. DOI: [10.1021/acs.jcim.3c01250](https://doi.org/10.1021/acs.jcim.3c01250)
+**Today's paper:** Champion, C., Gall, R., Ries, B., Rieder, S. R., Barros, E. P., & Riniker, S. (2023). Accelerating Alchemical Free Energy Prediction Using a Multistate Method: Application to Multiple Kinases. Journal of Chemical Information and Modeling, 63(22), 7133-7147. DOI: [10.1021/acs.jcim.3c01469](https://doi.org/10.1021/acs.jcim.3c01469)

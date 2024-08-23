@@ -1,25 +1,7 @@
-# Lecture 06
+<h1 align="center">
+<b>Lecture 06</b><br>
+TODO
+</h1>
+<p align="center"><b>Date: </b>Oct 2, 2024</p>
 
-**Date:** Oct 2, 2024
-
-## Learning objectives
-
-What you should be able to do after today's lecture:
-
-TODO:
-
-## Readings
-
-TODO:
-
-## Presentation
-
-TODO:
-
-<!-- <iframe src="https://slides.com/aalexmmaldonado/biosc1540-2024s-l01/embed?byline=hidden&share=hidden" width="100%" height="600" title="biosc1540-2024s-L01" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> -->
-
-<!-- <p style="text-align: center;">
-    <object hspace="50">
-        <a href="/files/slides/pdfs/biosc1540-2024s-l01.pdf" target="_blank">PDF</a>
-    </object>
-</p> -->
+**Today's paper:** Abramson, J., Adler, J., Dunger, J., Evans, R., Green, T., Pritzel, A., ... & Jumper, J. M. (2024). Accurate structure prediction of biomolecular interactions with AlphaFold 3. *Nature*, 1-3. DOI: [10.1038/s41586-024-07487-w](https://doi.org/10.1038/s41586-024-07487-w)

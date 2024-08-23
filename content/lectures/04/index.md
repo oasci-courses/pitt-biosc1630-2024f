@@ -1,25 +1,7 @@
-# Lecture 04
+<h1 align="center">
+<b>Lecture 04</b><br>
+TODO
+</h1>
+<p align="center"><b>Date: </b>Sep 18, 2024</p>
 
-**Date:** Sep 18, 2024
-
-## Learning objectives
-
-What you should be able to do after today's lecture:
-
-TODO:
-
-## Readings
-
-TODO:
-
-## Presentation
-
-TODO:
-
-<!-- <iframe src="https://slides.com/aalexmmaldonado/biosc1540-2024s-l01/embed?byline=hidden&share=hidden" width="100%" height="600" title="biosc1540-2024s-L01" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> -->
-
-<!-- <p style="text-align: center;">
-    <object hspace="50">
-        <a href="/files/slides/pdfs/biosc1540-2024s-l01.pdf" target="_blank">PDF</a>
-    </object>
-</p> -->
+**Today's paper:** Zhu, W., Zhang, Y., Zhao, D., Xu, J., & Wang, L. (2022). HiGNN: A hierarchical informative graph neural network for molecular property prediction equipped with feature-wise attention. Journal of Chemical Information and Modeling, 63(1), 43-55. DOI: [10.1021/acs.jcim.2c01099](https://doi.org/10.1021/acs.jcim.2c01099)
