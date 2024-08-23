@@ -8,10 +8,10 @@ Course Overview and Anatomy of research
 
 What you should be able to do after today's lecture:
 
-1.   Understand course structure and expectations.
-2.   Compare and contrast different types of scientific articles and understand how these articles target different audiences.
-3.   Learn strategies to find primary research articles that pertain to a question you care about.
-4.   Learn guidelines for giving and receiving critical feedback.
+1.  Understand course structure and expectations.
+2.  Compare and contrast different types of scientific articles and understand how these articles target different audiences.
+3.  Learn strategies to find primary research articles that pertain to a question you care about.
+4.  Learn guidelines for giving and receiving critical feedback.
 
 ## Meet the instructor
 
