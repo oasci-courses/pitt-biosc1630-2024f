@@ -32,7 +32,7 @@ Jump to [this week](#week-1).
 
 **Wednesday** (Sep 25) [Lecture 05](../../lectures/05/)
 
--   ^^Due at 11:59 pm^^: [Review](../assessments/paper/assignments/intro.md)
+-   ^^Due at 11:59 pm^^: [Review](../assessments/paper/assignments/review.md)
 
 ## Week 6
 
