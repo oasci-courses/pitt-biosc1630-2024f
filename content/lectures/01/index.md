@@ -6,66 +6,81 @@ Course overview and anatomy of research
 
 ## Learning objectives
 
-What you should be able to do after today's lecture:
+After today's lecture, you should be able to:
 
 1.  Understand course structure and expectations.
-2.  Compare and contrast different types of scientific articles and understand how these articles target different audiences.
-3.  Learn strategies to find primary research articles that pertain to a question you care about.
+2.  Outline the requirements and goals of the perspective primers.
+3.  Compare and contrast different types of scientific articles.
+4.  Explain the key components of the research ecosystem.
+5.  Apply effective strategies to find relevant literature.
 
-## Meet the instructor
+## Presentation
 
-**Duration:** 5 minutes
+<iframe src="https://slides.com/aalexmmaldonado/biosc1630-l01/embed?byline=hidden&share=hidden" width="100%" height="600" title="BIOSC 1630: Lecture 01" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-Begin the class with an introduction to the instructor.
-This will help the students connect with the instructor and begin a sense of belonging.
-Students are likelier to engage with course materials when they feel a personal connection to the instructor.
+<!-- <p style="text-align: center;">
+    <object hspace="50">
+        <a href="/files/slides/pdfs/biosc1540-l02.pdf" target="_blank">PDF</a>
+    </object>
+</p> -->
 
-??? quote "Example information"
-    A presentation that could include the following information.
+??? note "Outline"
+    ## Outline
 
-    **Instructor background**
+    ### Meet the instructor
 
-    Begin by sharing information about the instructor's background, including their education, professional experience, and personal information that helps students relate.
-    This could include where the instructor grew up, what inspired them to pursue a career in computational biology, and any interesting experiences or achievements.
+    **Duration:** 5 minutes
 
-    **Research interests**
+    Begin the class with an introduction to the instructor.
+    This will help the students connect with the instructor and begin a sense of belonging.
+    Students are likelier to engage with course materials when they feel a personal connection to the instructor.
 
-    Discuss research interests and current projects that are relevant to computational biology.
-    This could include the topics the instructor is studying, methods, and exciting findings or insights.
+    ??? quote "Example information"
+        A presentation that could include the following information.
 
-    **Teaching philosophy**
+        **Instructor background**
 
-    Share the teaching philosophy and approach to the course.
-    This could include goals for student learning, beliefs about effective teaching methods, and how to engage students in the course material.
+        Begin by sharing information about the instructor's background, including their education, professional experience, and personal information that helps students relate.
+        This could include where the instructor grew up, what inspired them to pursue a career in computational biology, and any interesting experiences or achievements.
 
-## Course overview
+        **Research interests**
 
-**Duration:** 35 minutes
+        Discuss research interests and current projects that are relevant to computational biology.
+        This could include the topics the instructor is studying, methods, and exciting findings or insights.
 
-Provide an overview of the course structure and expectations, including the class format, grading policies, and important dates or deadlines.
-This will help students understand what is expected of them and how to succeed in the course.
+        **Teaching philosophy**
 
-## Perspective and primers
+        Share the teaching philosophy and approach to the course.
+        This could include goals for student learning, beliefs about effective teaching methods, and how to engage students in the course material.
 
-**Duration:** 20 minutes
+    ### Course overview
 
-Go in depth on the perspective paper and introduce the [perspective primers](../../assessments/paper/primers.md) and [theme assignment](../../assessments/paper/assignments/theme.md).
+    **Duration:** 35 minutes
 
-## Break
+    Provide an overview of the course structure and expectations, including the class format, grading policies, and important dates or deadlines.
+    This will help students understand what is expected of them and how to succeed in the course.
 
-**Duration:** 10 minutes
+    ### Perspective and primers
 
-## Bureaucracy and anatomy of research
+    **Duration:** 20 minutes
 
-**Duration:** 30 minutes
+    Go in depth on the perspective paper and introduce the [perspective primers](../../assessments/paper/primers.md) and [theme assignment](../../assessments/paper/assignments/theme.md).
 
-Provide students with a comprehensive understanding of the structures and processes that shape scientific inquiry in fields like computational biology.
-By exploring funding mechanisms, career paths, publication practices, and impact metrics, students will gain valuable insights into the forces that influence research priorities and career trajectories.
+    ### Break
 
-## How to find scientific articles
+    **Duration:** 10 minutes
 
-**Duration:** __ minutes
+    ### Anatomy of research
 
-Finding relevant scientific literature is an essential skill for computational biologists.
-By providing strategies for effective searching, you can help students develop the skills to find primary research articles that pertain to their research interests.
-Search engines and databases are powerful tools for finding scientific literature.
+    **Duration:** 35 minutes
+
+    Provide students with a comprehensive understanding of the structures and processes that shape scientific inquiry in fields like computational biology.
+    By exploring funding mechanisms, career paths, publication practices, and impact metrics, students will gain valuable insights into the forces that influence research priorities and career trajectories.
+
+    ### How to find scientific articles
+
+    **Duration:** 35 minutes
+
+    Finding relevant scientific literature is an essential skill for computational biologists.
+    By providing strategies for effective searching, you can help students develop the skills to find primary research articles that pertain to their research interests.
+    Search engines and databases are powerful tools for finding scientific literature.
