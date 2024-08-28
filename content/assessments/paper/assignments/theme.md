@@ -20,7 +20,7 @@ Specifically, you will:
 
 1.  Choose one of the provided [perspective primers](../primers.md) from the course materials.
 2.  Skim two to three key papers related to the chosen theme.
- These can be from the suggested readings or found through your literature search.
+    These can be from the suggested readings or found through your literature search.
 3.  Write a 250-word summary that includes:
     -   The theme/perspective primer you've chosen
     -   A brief overview of the main ideas presented in the papers you've read

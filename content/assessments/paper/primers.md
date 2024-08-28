@@ -28,7 +28,7 @@ Possible discussion points:
 
 One can argue for the continued relevance of *ab initio* methods based on their foundational principles, independence from large training datasets, and potential for integration with new technologies.
 Conversely, others may emphasize deep learning's transformative impact, highlighting its superior accuracy, efficiency, and the paradigm shift in the field.
-
+<!--
 ???+ tip "Example papers"
     Here are some scientific articles to help get you started.
 
@@ -47,7 +47,7 @@ Conversely, others may emphasize deep learning's transformative impact, highligh
     **Reviews**
 
     -   Huang, B., Kong, L., Wang, C., Ju, F., Zhang, Q., Zhu, J., ... & Bu, D. (2023). Protein structure prediction: challenges, advances, and the shift of research paradigms. *Genomics, Proteomics & Bioinformatics, 21*(5), 913-925. DOI: [10.1016/j.gpb.2022.11.014](https://doi.org/10.1016/j.gpb.2022.11.014)
-    -   Bertoline, L. M., Lima, A. N., Krieger, J. E., & Teixeira, S. K. (2023). Before and after AlphaFold2: An overview of protein structure prediction. Frontiers in bioinformatics, 3, 1120370. DOI: [10.3389/fbinf.2023.1120370](https://doi.org/10.3389/fbinf.2023.1120370)
+    -   Bertoline, L. M., Lima, A. N., Krieger, J. E., & Teixeira, S. K. (2023). Before and after AlphaFold2: An overview of protein structure prediction. Frontiers in bioinformatics, 3, 1120370. DOI: [10.3389/fbinf.2023.1120370](https://doi.org/10.3389/fbinf.2023.1120370) -->
 
 ## Computer-aided drug design
 
@@ -72,7 +72,7 @@ Possible discussion points:
 
 MD simulations could be indispensable because they can provide detailed dynamic insights and refine docking predictions, enhancing the reliability of subsequent wet lab experiments.
 Conversely, others might highlight the practical challenges, such as the computational expense and the potential delays in the drug development timeline, advocating for a more streamlined approach that moves directly from docking to experimental validation.
-
+<!--
 ???+ tip "Example papers"
     Here are some scientific articles to help get you started.
 
@@ -94,7 +94,7 @@ Conversely, others might highlight the practical challenges, such as the computa
     -   Bassani, D., & Moro, S. (2023). Past, present, and future perspectives on computer-aided drug design methodologies. Molecules, 28(9), 3906. DOI: [10.3390/molecules28093906](https://doi.org/10.3390/molecules28093906)
     -   Yang, C., Chen, E. A., & Zhang, Y. (2022). Protein–ligand docking in the machine-learning era. Molecules, 27(14), 4568. DOI: [10.3390/molecules27144568](https://doi.org/10.3390/molecules27144568)
     -   Dhakal, A., McKay, C., Tanner, J. J., & Cheng, J. (2022). Artificial intelligence in the prediction of protein–ligand interactions: recent advances and future directions. Briefings in Bioinformatics, 23(1), bbab476. DOI: [10.1093/bib/bbab476](https://doi.org/10.1093/bib/bbab476)
-    -   Sadybekov, A. V., & Katritch, V. (2023). Computational approaches streamlining drug discovery. Nature, 616(7958), 673-685. DOI: [10.1038/s41586-023-05905-z](https://doi.org/10.1038/s41586-023-05905-z)
+    -   Sadybekov, A. V., & Katritch, V. (2023). Computational approaches streamlining drug discovery. Nature, 616(7958), 673-685. DOI: [10.1038/s41586-023-05905-z](https://doi.org/10.1038/s41586-023-05905-z) -->
 
 ## Single-cell transcriptomics
 
@@ -120,7 +120,7 @@ Possible discussion points:
 
 Single-cell methods provide such detailed insights into cellular heterogeneity that they supersede the need for bulk approaches in most research contexts.
 Conversely, others might emphasize the continued relevance of bulk RNA-seq for specific experimental designs, its ability to capture a more comprehensive picture of gene expression, and its established role in clinical and diagnostic applications.
-
+<!--
 ???+ tip "Example papers"
     Here are some scientific articles to help get you started:
 
@@ -134,4 +134,4 @@ Conversely, others might emphasize the continued relevance of bulk RNA-seq for s
 
     - Stark, R., Grzelak, M., & Hadfield, J. (2019). RNA sequencing: the teenage years. Nature Reviews Genetics, 20(11), 631-656. DOI: [10.1038/s41576-019-0150-2](https://doi.org/10.1038/s41576-019-0150-2)
     - Lähnemann, D., Köster, J., Szczurek, E., McCarthy, D. J., Hicks, S. C., Robinson, M. D., ... & Schönhuth, A. (2020). Eleven grand challenges in single-cell data science. *Genome biology, 21*(1), 31. DOI: [10.1186/s13059-020-1926-6](https://doi.org/10.1186/s13059-020-1926-6)
-    - Tritschler, S., Büttner, M., Fischer, D. S., Lange, M., Bergen, V., Lickert, H., & Theis, F. J. (2019). Concepts and limitations for learning developmental trajectories from single cell genomics. *Development, 146*(12), dev170506. DOI: [10.1242/dev.170506](https://doi.org/10.1242/dev.170506)
+    - Tritschler, S., Büttner, M., Fischer, D. S., Lange, M., Bergen, V., Lickert, H., & Theis, F. J. (2019). Concepts and limitations for learning developmental trajectories from single cell genomics. *Development, 146*(12), dev170506. DOI: [10.1242/dev.170506](https://doi.org/10.1242/dev.170506) -->

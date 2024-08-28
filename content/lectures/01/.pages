@@ -1,2 +1,3 @@
 nav:
     - "<b>Lecture 01:</b> Course overview": index.md
+    - Activities: activities
