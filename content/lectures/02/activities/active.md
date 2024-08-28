@@ -46,30 +46,30 @@ It also serves as a personal dialogue with the text, enabling you to engage more
 
 ## Discussion questions
 
-- **Research objectives:**
+-   **Research objectives:**
   What are the main research objectives or questions addressed in the paper?
   Are they clearly stated and well-defined?
-- **Methodology:**
+-   **Methodology:**
   Can you describe the methods and techniques used in the study?
   Are they appropriate for the research questions, and are there any potential limitations or alternative approaches?
-- **Key findings:**
+-   **Key findings:**
   What are the primary findings or results presented in the paper?
   Do these findings align with the research objectives, and does robust evidence support them?
-- **Data analysis:**
+-   **Data analysis:**
   How was the data analyzed, and were the statistical or computational methods appropriate for the study?
   Are there any potential biases or sources of error?
-- **Interpretation:**
+-   **Interpretation:**
   How do the authors interpret the results?
   Do they clearly explain the implications of their findings within the broader context of computational biology?
-- **Comparisons:**
+-   **Comparisons:**
   Does the paper make comparisons with existing research or related studies?
   Does it contribute novel insights or build upon existing knowledge?
-- **Future directions:**
+-   **Future directions:**
   Are there suggestions for future research or areas where further investigation is needed based on the paper's conclusions?
-- **Open science practices:**
+-   **Open science practices:**
   Does the paper adhere to open science practices like sharing data, code, or materials?
   How might open science principles improve transparency and reproducibility?
-- **Innovation:**
+-   **Innovation:**
   Does the paper introduce innovative approaches, tools, or algorithms that advance computational biology research?
 
 ## Executive summary
@@ -82,12 +82,12 @@ It gives busy executives, decision-makers, or stakeholders a quick and accessibl
 
 Key characteristics of an executive summary include:
 
-- **Brevity:** It is succinct and to the point, distilling the most critical information into a limited word count or page length.
-- **Clarity:** It presents complex ideas and data clearly and easily understandable, using plain language and avoiding jargon.
-- **Content highlights:** It highlights the full document's main objectives, findings, conclusions, and recommendations, offering a comprehensive overview.
-- **Audience-centric:** It is tailored to the needs and interests of the target audience, often senior decision-makers or busy professionals who need a quick grasp of the document's essence.
-- **No new information:** It does not introduce new information or concepts not already covered in the full document; rather, it summarizes existing content.
-- **Format and structure:** It typically follows a structured format, with sections that mirror the organization of the entire document, such as an introduction, objectives, methods, results, conclusions, and recommendations.
+-   **Brevity:** It is succinct and to the point, distilling the most critical information into a limited word count or page length.
+-   **Clarity:** It presents complex ideas and data clearly and easily understandable, using plain language and avoiding jargon.
+-   **Content highlights:** It highlights the full document's main objectives, findings, conclusions, and recommendations, offering a comprehensive overview.
+-   **Audience-centric:** It is tailored to the needs and interests of the target audience, often senior decision-makers or busy professionals who need a quick grasp of the document's essence.
+-   **No new information:** It does not introduce new information or concepts not already covered in the full document; rather, it summarizes existing content.
+-   **Format and structure:** It typically follows a structured format, with sections that mirror the organization of the entire document, such as an introduction, objectives, methods, results, conclusions, and recommendations.
 
 With your group, **write a three-to-five-sentence executive summary** of your chosen paper.
 Tailor the executive summary to judges for an "International Computational Biology Competition" about why your article deserves the award.

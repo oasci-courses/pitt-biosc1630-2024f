@@ -4,6 +4,6 @@ TODO
 </h1>
 <p align="center"><b>Date: </b>Sep 25, 2024</p>
 
-- Introduction
+-   Introduction
 
 ## Learning objectives

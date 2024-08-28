@@ -4,7 +4,7 @@ Reading literature
 </h1>
 <p align="center"><b>Date: </b>Sep 4, 2024</p>
 
--  Reading literature
+-   Reading literature
 
 ## Learning objectives
 
