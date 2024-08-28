@@ -17,7 +17,7 @@ After today's lecture, you should be able to:
 ## Presentation
 
 -   **Live link:** [slides.com/d/E2MQpyk/live](https://slides.com/d/E2MQpyk/live)
-<!-- -   **Download:** [biosc1630-l01.pdf](/lectures/01/biosc1630-l01.pdf) -->
+-   **Download:** [biosc1630-l01.pdf](/lectures/01/biosc1630-l01.pdf)
 
 <iframe src="https://slides.com/aalexmmaldonado/biosc1630-l01/embed?byline=hidden&share=hidden" width="100%" height="600" title="BIOSC 1630: Lecture 01" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
