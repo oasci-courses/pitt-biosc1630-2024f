@@ -21,8 +21,13 @@ After today's lecture, you should be able to:
 
 <iframe src="https://slides.com/aalexmmaldonado/biosc1630-l01/embed?byline=hidden&share=hidden" width="100%" height="600" title="BIOSC 1630: Lecture 01" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-<!-- <p style="text-align: center;">
-    <object hspace="50">
-        <a href="/files/slides/pdfs/biosc1540-l02.pdf" target="_blank">PDF</a>
-    </object>
-</p> -->
+<!--
+Notes:
+
+-   Need to add explicit slides for the "danger unfinished" as well as give some example in-class activities.
+-   Need to mention at some point the presentations.
+-   Need to mention my position on ChatGPT.
+-   I probably can cut down on the research ecosystem.
+-   I think they needed more time to finish this.
+-   Activity took a little too long, need to reduce.
+ -->
