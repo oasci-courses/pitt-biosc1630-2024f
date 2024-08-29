@@ -39,4 +39,4 @@ Please submit your assignment as a PDF using Gradescope.
 | Paper Selection | 4 | Student has chosen 2-3 relevant papers related to the selected theme. |
 | Summary Content | 4 | The summary covers the main ideas from the chosen papers, identifies key questions or challenges, and provides initial thoughts on the theme's importance. |
 | Citations | 4 | Full citations are provided for all papers referenced. |
-| Writing Clarity | 4 | The summary is written clearly and concisely, adhering to the 250-word limit. |
+| Writing Clarity | 4 | The summary is written clearly and concisely. |
