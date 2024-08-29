@@ -28,7 +28,7 @@ Possible discussion points:
 
 One can argue for the continued relevance of *ab initio* methods based on their foundational principles, independence from large training datasets, and potential for integration with new technologies.
 Conversely, others may emphasize deep learning's transformative impact, highlighting its superior accuracy, efficiency, and the paradigm shift in the field.
-<!--
+
 ???+ tip "Example papers"
     Here are some scientific articles to help get you started.
 
@@ -42,12 +42,12 @@ Conversely, others may emphasize deep learning's transformative impact, highligh
 
     -    Outeiral, C., Nissley, D. A., & Deane, C. M. (2022). Current structure predictors are not learning the physics of protein folding. *Bioinformatics, 38*(7), 1881-1887. DOI: [10.1093/bioinformatics/btab881](https://doi.org/10.1093/bioinformatics/btab881)
     -    Kuhlman, B., & Bradley, P. (2019). Advances in protein structure prediction and design. *Nature reviews molecular cell biology, 20*(11), 681-697. DOI: [10.1038/s41580-019-0163-x](https://doi.org/10.1038/s41580-019-0163-x)
-    -    Doga, H., Raubenolt, B., Cumbo, F., Joshi, J., DiFilippo, F. P., Qin, J., ... & Shehab, O. (2024). A perspective on protein structure prediction using quantum computers. Journal of Chemical Theory and Computation, 20(9), 3359-3378. DOI: [10.1021/acs.jctc.4c00067](https://doi.org/10.1021/acs.jctc.4c00067)
+    -    Doga, H., Raubenolt, B., Cumbo, F., Joshi, J., DiFilippo, F. P., Qin, J., ... & Shehab, O. (2024). A perspective on protein structure prediction using quantum computers. *Journal of Chemical Theory and Computation, 20*(9), 3359-3378. DOI: [10.1021/acs.jctc.4c00067](https://doi.org/10.1021/acs.jctc.4c00067)
 
     **Reviews**
 
     -   Huang, B., Kong, L., Wang, C., Ju, F., Zhang, Q., Zhu, J., ... & Bu, D. (2023). Protein structure prediction: challenges, advances, and the shift of research paradigms. *Genomics, Proteomics & Bioinformatics, 21*(5), 913-925. DOI: [10.1016/j.gpb.2022.11.014](https://doi.org/10.1016/j.gpb.2022.11.014)
-    -   Bertoline, L. M., Lima, A. N., Krieger, J. E., & Teixeira, S. K. (2023). Before and after AlphaFold2: An overview of protein structure prediction. Frontiers in bioinformatics, 3, 1120370. DOI: [10.3389/fbinf.2023.1120370](https://doi.org/10.3389/fbinf.2023.1120370) -->
+    -   Bertoline, L. M., Lima, A. N., Krieger, J. E., & Teixeira, S. K. (2023). Before and after AlphaFold2: An overview of protein structure prediction. *Frontiers in bioinformatics, 3*, 1120370. DOI: [10.3389/fbinf.2023.1120370](https://doi.org/10.3389/fbinf.2023.1120370)
 
 ## Computer-aided drug design
 
@@ -72,26 +72,26 @@ Possible discussion points:
 
 MD simulations could be indispensable because they can provide detailed dynamic insights and refine docking predictions, enhancing the reliability of subsequent wet lab experiments.
 Conversely, others might highlight the practical challenges, such as the computational expense and the potential delays in the drug development timeline, advocating for a more streamlined approach that moves directly from docking to experimental validation.
-<!--
+
 ???+ tip "Example papers"
     Here are some scientific articles to help get you started.
 
     **Primary**
 
-    -   Alibay, I., Magarkar, A., Seeliger, D., & Biggin, P. C. (2022). Evaluating the use of absolute binding free energy in the fragment optimisation process. Communications Chemistry, 5(1), 105. DOI: [10.1038/s42004-022-00721-4](https://doi.org/10.1038/s42004-022-00721-4)
-    -   Eberhardt, J., Santos-Martins, D., Tillack, A. F., & Forli, S. (2021). AutoDock Vina 1.2.0: New docking methods, expanded force field, and python bindings. Journal of chemical information and modeling, 61(8), 3891-3898. DOI: [10.1021/acs.jcim.1c00203](https://doi.org/10.1021/acs.jcim.1c00203)
+    -   Alibay, I., Magarkar, A., Seeliger, D., & Biggin, P. C. (2022). Evaluating the use of absolute binding free energy in the fragment optimisation process. *Communications Chemistry, 5*(1), 105. DOI: [10.1038/s42004-022-00721-4](https://doi.org/10.1038/s42004-022-00721-4)
+    -   Eberhardt, J., Santos-Martins, D., Tillack, A. F., & Forli, S. (2021). AutoDock Vina 1.2.0: New docking methods, expanded force field, and python bindings. *Journal of chemical information and modeling, 61*(8), 3891-3898. DOI: [10.1021/acs.jcim.1c00203](https://doi.org/10.1021/acs.jcim.1c00203)
     -   Wan, S., Sinclair, R. C., & Coveney, P. V. (2021). Uncertainty quantification in classical molecular dynamics. Philosophical Transactions of the Royal Society A, 379(2197), 20200082. DOI: [10.1098/rsta.2020.0082](https://doi.org/10.1098/rsta.2020.0082)
-    -   Sahakyan, H. (2021). Improving virtual screening results with MM/GBSA and MM/PBSA rescoring. Journal of Computer-Aided Molecular Design, 35(6), 731-736. DOI: [10.1007/s10822-021-00389-3](https://doi.org/10.1007/s10822-021-00389-3)
-    -   Lee, T. S., Lin, Z., Allen, B. K., Lin, C., Radak, B. K., Tao, Y., ... & York, D. M. (2020). Improved alchemical free energy calculations with optimized smoothstep softcore potentials. Journal of chemical theory and computation, 16(9), 5512-5525. DOI: [10.1021/acs.jctc.0c00237](https://doi.org/10.1021/acs.jctc.0c00237)
+    -   Sahakyan, H. (2021). Improving virtual screening results with MM/GBSA and MM/PBSA rescoring. *Journal of Computer-Aided Molecular Design, 35*(6), 731-736. DOI: [10.1007/s10822-021-00389-3](https://doi.org/10.1007/s10822-021-00389-3)
+    -   Lee, T. S., Lin, Z., Allen, B. K., Lin, C., Radak, B. K., Tao, Y., ... & York, D. M. (2020). Improved alchemical free energy calculations with optimized smoothstep softcore potentials. *Journal of chemical theory and computation, 16*(9), 5512-5525. DOI: [10.1021/acs.jctc.0c00237](https://doi.org/10.1021/acs.jctc.0c00237)
 
     **Opinion**
 
-    -   Song, L. F., & Merz Jr, K. M. (2020). Evolution of alchemical free energy methods in drug discovery. Journal of Chemical Information and Modeling, 60(11), 5308-5318. DOI: [10.1021/acs.jcim.0c00547](https://doi.org/10.1021/acs.jcim.0c00547)
+    -   Song, L. F., & Merz Jr, K. M. (2020). Evolution of alchemical free energy methods in drug discovery. *Journal of Chemical Information and Modeling, 60*(11), 5308-5318. DOI: [10.1021/acs.jcim.0c00547](https://doi.org/10.1021/acs.jcim.0c00547)
 
     **Reviews**
 
-    -   Sabe, V. T., Ntombela, T., Jhamba, L. A., Maguire, G. E., Govender, T., Naicker, T., & Kruger, H. G. (2021). Current trends in computer aided drug design and a highlight of drugs discovered via computational techniques: A review. European Journal of Medicinal Chemistry, 224, 113705. DOI: [10.1016/j.ejmech.2021.113705](https://doi.org/10.1016/j.ejmech.2021.113705)
+    -   Sabe, V. T., Ntombela, T., Jhamba, L. A., Maguire, G. E., Govender, T., Naicker, T., & Kruger, H. G. (2021). Current trends in computer aided drug design and a highlight of drugs discovered via computational techniques: A review. *European Journal of Medicinal Chemistry, 224*, 113705. DOI: [10.1016/j.ejmech.2021.113705](https://doi.org/10.1016/j.ejmech.2021.113705)
     -   Bassani, D., & Moro, S. (2023). Past, present, and future perspectives on computer-aided drug design methodologies. Molecules, 28(9), 3906. DOI: [10.3390/molecules28093906](https://doi.org/10.3390/molecules28093906)
-    -   Yang, C., Chen, E. A., & Zhang, Y. (2022). Protein–ligand docking in the machine-learning era. Molecules, 27(14), 4568. DOI: [10.3390/molecules27144568](https://doi.org/10.3390/molecules27144568)
-    -   Dhakal, A., McKay, C., Tanner, J. J., & Cheng, J. (2022). Artificial intelligence in the prediction of protein–ligand interactions: recent advances and future directions. Briefings in Bioinformatics, 23(1), bbab476. DOI: [10.1093/bib/bbab476](https://doi.org/10.1093/bib/bbab476)
-    -   Sadybekov, A. V., & Katritch, V. (2023). Computational approaches streamlining drug discovery. Nature, 616(7958), 673-685. DOI: [10.1038/s41586-023-05905-z](https://doi.org/10.1038/s41586-023-05905-z) -->
+    -   Yang, C., Chen, E. A., & Zhang, Y. (2022). Protein–ligand docking in the machine-learning era. *Molecules, 27*(14), 4568. DOI: [10.3390/molecules27144568](https://doi.org/10.3390/molecules27144568)
+    -   Dhakal, A., McKay, C., Tanner, J. J., & Cheng, J. (2022). Artificial intelligence in the prediction of protein–ligand interactions: recent advances and future directions. *Briefings in Bioinformatics, 23*(1), bbab476. DOI: [10.1093/bib/bbab476](https://doi.org/10.1093/bib/bbab476)
+    -   Sadybekov, A. V., & Katritch, V. (2023). Computational approaches streamlining drug discovery. *Nature, 616*(7958), 673-685. DOI: [10.1038/s41586-023-05905-z](https://doi.org/10.1038/s41586-023-05905-z)
