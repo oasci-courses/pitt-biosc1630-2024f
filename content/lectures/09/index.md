@@ -4,4 +4,8 @@ TODO
 </h1>
 <p align="center"><b>Date: </b>Oct 23, 2024</p>
 
+!!! danger "DRAFT"
+
+    This page is a work in progress and is subject to change at any moment.
+
 ## Learning objectives
