@@ -30,4 +30,5 @@ Notes:
 -   I probably can cut down on the research ecosystem.
 -   I think they needed more time to finish this.
 -   Activity took a little too long, need to reduce.
+-   Students often have class right after, so be sure to always.
  -->
