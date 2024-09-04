@@ -17,11 +17,10 @@ In today's lecture, we will read the following primary research article in compu
 After today's lecture, you should be able to:
 
 1.  Identify the main question, hypothesis or innovation, and significance.
-2.  Apply active reading strategies.
+2.  Evaluate and understand the methods.
 3.  Interpret figures, tables, and data visualizations.
-4.  Evaluate and understand the experimental design and main findings.
+4.  Identify the key takeaways and conclusions.
 5.  Apply critical thinking skills to assess the strengths, limitations, and biases.
-6.  Synthesize and summarize the key findings and significance.
 
 ## Presentation
 
