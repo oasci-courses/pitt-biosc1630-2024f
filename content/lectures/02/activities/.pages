@@ -1,3 +1,6 @@
 nav:
-    - "Activity: Reading for gist": gist.md
-    - "Activity: Active reading": active.md
+    # - "<b>Activity</b>: Abstract analysis": abstract.md
+    - "<b>Activity</b>: Active introduction reading": intro.md
+    - "<b>Activity</b>: Data interpretation": data.md
+    - "<b>Activity</b>: Skeptical results": results.md
+    - "<b>Activity</b>: Method scrutiny": methods.md
