@@ -1,4 +1,4 @@
-# L06 pre-class assignment
+# L05 pre-class assignment
 
 <p style="text-align: center;">
  <object hspace="50">

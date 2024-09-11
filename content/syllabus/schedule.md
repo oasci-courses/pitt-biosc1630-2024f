@@ -26,61 +26,59 @@ Jump to [this week](#week-1).
 
 **Wednesday** (Sep 18) [Lecture 04](../../lectures/04/)
 
--   ^^Due at 1:00 pm^^: [L04 pre-class assignment](../../assessments/pre-class/l04/)
+-   ^^Due at 11:59 pm^^: [Review](../assessments/paper/assignments/review.md)
 
 ## Week 5
 
 **Wednesday** (Sep 25) [Lecture 05](../../lectures/05/)
 
--   ^^Due at 11:59 pm^^: [Review](../assessments/paper/assignments/review.md)
+-   ^^Due at 1:00 pm^^: [L05 pre-class assignment](../../assessments/pre-class/l05/)
 
 ## Week 6
 
 **Wednesday** (Oct 2) [Lecture 06](../../lectures/06/)
 
--   ^^Due at 1:00 pm^^: [L06 pre-class assignment](../../assessments/pre-class/l06/)
+-   ^^Due at 11:59 pm^^: [Introduction](../assessments/paper/assignments/intro.md)
 
 ## Week 7
 
 **Wednesday** (Oct 9) [Lecture 07](../../lectures/07/)
 
--   ^^Due at 11:59 pm^^: [Introduction](../assessments/paper/assignments/intro.md)
+-   ^^Due at 1:00 pm^^:  [L07 pre-class assignment](../../assessments/pre-class/l07/)
 
 ## Week 8
 
 **Wednesday** (Oct 16) [Lecture 08](../../lectures/08/)
 
--   ^^Due at 1:00 pm^^:  [L08 pre-class assignment](../../assessments/pre-class/l08/)
+-   ^^Due at 11:59 pm^^: [Overview](../assessments/paper/assignments/overview.md)
 
 ## Week 9
 
 **Wednesday** (Oct 23) [Lecture 09](../../lectures/09/)
 
--   ^^Due at 11:59 pm^^: [Overview](../assessments/paper/assignments/overview.md)
+-   ^^Due at 1:00 pm^^: [L09 pre-class assignment](../../assessments/pre-class/l09/)
 
 ## Week 10
 
 **Wednesday** (Oct 30) [Lecture 10](../../lectures/10/)
 
--   ^^Due at 1:00 pm^^: [L10 pre-class assignment](../../assessments/pre-class/l10/)
+-   ^^Due at 11:59 pm^^: [Challenges](../assessments/paper/assignments/challenges.md)
 
 ## Week 11
 
 **Wednesday** (Nov 6) [Lecture 11](../../lectures/11/)
 
--   ^^Due at 11:59 pm^^: [Challenges](../assessments/paper/assignments/challenges.md)
+-   ^^Due at 1:00 pm^^: [L11 pre-class assignment](../../assessments/pre-class/l11/)
 
 ## Week 12
 
 **Wednesday** (Nov 13) [Lecture 12](../../lectures/12/)
 
--   ^^Due at 1:00 pm^^: [L12 pre-class assignment](../../assessments/pre-class/l12/)
+-   ^^Due at 11:59 pm^^: [Conclusions](../assessments/paper/assignments/conclusion.md)
 
 ## Week 13
 
 **Wednesday** (Nov 20) [Lecture 13](../../lectures/13/)
-
--   ^^Due at 11:59 pm^^: [Conclusions](../assessments/paper/assignments/conclusion.md)
 
 ## Thanksgiving break
 
