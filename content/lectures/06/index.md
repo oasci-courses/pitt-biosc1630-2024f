@@ -1,6 +1,6 @@
 <h1 align="center">
 <b>Lecture 06</b><br>
-Paper 03
+Paper 02 - Discussion
 </h1>
 <p align="center"><b>Date: </b>Oct 2, 2024</p>
 
@@ -8,6 +8,6 @@ Paper 03
 
     This page is a work in progress and is subject to change at any moment.
 
-**Today's paper:** Abramson, J., Adler, J., Dunger, J., Evans, R., Green, T., Pritzel, A., ... & Jumper, J. M. (2024). Accurate structure prediction of biomolecular interactions with AlphaFold 3. *Nature*, 1-3. DOI: [10.1038/s41586-024-07487-w](https://doi.org/10.1038/s41586-024-07487-w)
+**Today's paper:** Zhu, W., Zhang, Y., Zhao, D., Xu, J., & Wang, L. (2022). HiGNN: A hierarchical informative graph neural network for molecular property prediction equipped with feature-wise attention. *Journal of Chemical Information and Modeling, 63*(1), 43-55. DOI: [10.1021/acs.jcim.2c01099](https://doi.org/10.1021/acs.jcim.2c01099)
 
 ## Learning objectives

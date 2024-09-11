@@ -1,6 +1,6 @@
 <h1 align="center">
 <b>Lecture 04</b><br>
-Paper 02
+Paper 01 - Discussion
 </h1>
 <p align="center"><b>Date: </b>Sep 18, 2024</p>
 
@@ -8,6 +8,6 @@ Paper 02
 
     This page is a work in progress and is subject to change at any moment.
 
-**Today's paper:** Zhu, W., Zhang, Y., Zhao, D., Xu, J., & Wang, L. (2022). HiGNN: A hierarchical informative graph neural network for molecular property prediction equipped with feature-wise attention. *Journal of Chemical Information and Modeling, 63*(1), 43-55. DOI: [10.1021/acs.jcim.2c01099](https://doi.org/10.1021/acs.jcim.2c01099)
+**Today's paper:** Champion, C., Gall, R., Ries, B., Rieder, S. R., Barros, E. P., & Riniker, S. (2023). Accelerating Alchemical Free Energy Prediction Using a Multistate Method: Application to Multiple Kinases. *Journal of Chemical Information and Modeling, 63*(22), 7133-7147. DOI: [10.1021/acs.jcim.3c01469](https://doi.org/10.1021/acs.jcim.3c01469)
 
 ## Learning objectives

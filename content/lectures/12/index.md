@@ -8,6 +8,6 @@ Paper 06
 
     This page is a work in progress and is subject to change at any moment.
 
-**Today's paper:** de Sousa, J. A. M., Fillol-Salom, A., Penadés, J. R., & Rocha, E. P. (2023). Identification and characterization of thousands of bacteriophage satellites across bacteria. *Nucleic acids research, 51*(6), 2759-2777. DOI: [10.1093/nar/gkad123](https://doi.org/10.1093/nar/gkad123)
+**Today's paper:** Yang, Y., Li, G., Zhong, Y., Xu, Q., Chen, B. J., Lin, Y. T., ... & Cai, J. J. (2023). Gene knockout inference with variational graph autoencoder learning single-cell gene regulatory networks. *Nucleic Acids Research, 51*(13), 6578-6592. DOI: [10.1093/nar/gkad450](https://doi.org/10.1093/nar/gkad450)
 
 ## Learning objectives

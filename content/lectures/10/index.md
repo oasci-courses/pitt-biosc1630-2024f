@@ -1,6 +1,6 @@
 <h1 align="center">
 <b>Lecture 10</b><br>
-Paper 05
+Paper 04 - Discussion
 </h1>
 <p align="center"><b>Date: </b>Oct 30, 2024</p>
 
@@ -8,6 +8,6 @@ Paper 05
 
     This page is a work in progress and is subject to change at any moment.
 
-**Today's paper:** Yang, Y., Li, G., Zhong, Y., Xu, Q., Chen, B. J., Lin, Y. T., ... & Cai, J. J. (2023). Gene knockout inference with variational graph autoencoder learning single-cell gene regulatory networks. *Nucleic Acids Research, 51*(13), 6578-6592. DOI: [10.1093/nar/gkad450](https://doi.org/10.1093/nar/gkad450)
+**Today's paper:** Milman, O., Yelin, I., & Kishony, R. (2023). Systematic identification of gene-altering programmed inversions across the bacterial domain. *Nucleic Acids Research, 51*(2), 553-573. DOI: [10.1093/nar/gkac1166](https://doi.org/10.1093/nar/gkac1166)
 
 ## Learning objectives

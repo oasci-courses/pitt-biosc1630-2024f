@@ -1,6 +1,6 @@
 <h1 align="center">
 <b>Lecture 08</b><br>
-Paper 04
+Paper 03 - Discussion
 </h1>
 <p align="center"><b>Date: </b>Oct 16, 2024</p>
 
@@ -8,6 +8,6 @@ Paper 04
 
     This page is a work in progress and is subject to change at any moment.
 
-**Today's paper:** Milman, O., Yelin, I., & Kishony, R. (2023). Systematic identification of gene-altering programmed inversions across the bacterial domain. *Nucleic Acids Research, 51*(2), 553-573. DOI: [10.1093/nar/gkac1166](https://doi.org/10.1093/nar/gkac1166)
+**Today's paper:** Abramson, J., Adler, J., Dunger, J., Evans, R., Green, T., Pritzel, A., ... & Jumper, J. M. (2024). Accurate structure prediction of biomolecular interactions with AlphaFold 3. *Nature*, 1-3. DOI: [10.1038/s41586-024-07487-w](https://doi.org/10.1038/s41586-024-07487-w)
 
 ## Learning objectives
