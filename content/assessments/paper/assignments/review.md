@@ -5,7 +5,7 @@
  <strong>Due</strong></a>: Sep 18, 2024 by 11:59 p.m.
  </object>
  <object hspace="50">
- <strong>Points</strong></a>: 20
+ <strong>Points</strong></a>: 80
  </object>
 </p>
 
@@ -27,7 +27,7 @@ This process mimics the initial stages of preparing a perspective piece in a gra
 
 ## Submission guidelines
 
--   Submit your work as a PDF file through Canvas.
+-   Submit your work as a PDF file through [Canvas](https://canvas.pitt.edu/courses/267146).
 -   Use 12-point font, 1.5 line spacing, and 1-inch margins.
 -   Include a header with your name, the course number, and the date.
 
@@ -35,7 +35,7 @@ This process mimics the initial stages of preparing a perspective piece in a gra
 
 | Criterion | Points | Description |
 |-----------|--------|-------------|
-| Article Selection | 9 | Student has selected 7-10 relevant articles, including at least five primary research articles. The selection demonstrates a thoughtful approach to gathering diverse, relevant sources. |
-| Summary Content | 6 | Each article summary accurately captures the main points, methodology (for primary articles), and findings. Summaries clearly relate the article to the chosen perspective primer topic. |
-| Writing Clarity | 3 | Summaries are clear, concise, and well-written. |
-| Formatting | 2 | The submission follows the specified formatting guidelines. |
+| Article Selection | 36 | Student has selected 7-10 relevant articles, including at least five primary research articles. The selection demonstrates a thoughtful approach to gathering diverse, relevant sources. |
+| Summary Content | 24 | Each article summary accurately captures the main points, methodology (for primary articles), and findings. Summaries clearly relate the article to the chosen perspective primer topic. |
+| Writing Clarity | 12 | Summaries are clear, concise, and well-written. |
+| Formatting | 8 | The submission follows the specified formatting guidelines. |

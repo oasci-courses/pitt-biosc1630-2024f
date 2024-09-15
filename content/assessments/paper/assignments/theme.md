@@ -5,7 +5,7 @@
         <strong>Due</strong></a>: Sep 4, 2024 by 11:59 p.m.
     </object>
     <object hspace="50">
-        <strong>Points</strong></a>: 20
+        <strong>Points</strong></a>: 60
     </object>
 </p>
 
@@ -16,7 +16,7 @@ Specifically, you will:
 -   Practice identifying and summarizing key ideas from scientific literature;
 -   Begin to engage critically with research in your chosen area.
 
-Please submit your assignment as a PDF using Gradescope.
+Please submit your assignment as a PDF using [Canvas](https://canvas.pitt.edu/courses/267146).
 
 ## Instructions
 
@@ -35,8 +35,8 @@ Please submit your assignment as a PDF using Gradescope.
 
 | Criterion | Points | Description |
 |-----------|--------|-------------|
-| Theme Selection | 4 | Student has identified one of the provided perspective primers. |
-| Paper Selection | 4 | Student has chosen 2-3 relevant papers related to the selected theme. |
-| Summary Content | 4 | The summary covers the main ideas from the chosen papers, identifies key questions or challenges, and provides initial thoughts on the theme's importance. |
-| Citations | 4 | Full citations are provided for all papers referenced. |
-| Writing Clarity | 4 | The summary is written clearly and concisely. |
+| Theme Selection | 12 | Student has identified one of the provided perspective primers. |
+| Paper Selection | 12 | Student has chosen 2-3 relevant papers related to the selected theme. |
+| Summary Content | 12 | The summary covers the main ideas from the chosen papers, identifies key questions or challenges, and provides initial thoughts on the theme's importance. |
+| Citations | 12 | Full citations are provided for all papers referenced. |
+| Writing Clarity | 12 | The summary is written clearly and concisely. |
