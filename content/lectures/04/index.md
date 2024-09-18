@@ -15,9 +15,10 @@ Paper 01 - Discussion
 -   Explanation of the RE-EDS methodology and its context (5 minutes)
 -   Overview of the session format and expectations (3 minutes)
 
-## Small group discussions
+## Group discussions and preparation
 
-Divide students into 4 groups, each focusing on a specific part of the **Results and Discussion**:
+Divide students into 4 groups, each focusing on a specific part of the **Results and Discussion**.
+Please put your presentation in the Google Drive directory posted on the [Canvas page](https://canvas.pitt.edu/courses/267146/pages/home).
 
 === "**Group 1:** NF-κB Inducing Kinase (NIK)"
 
@@ -137,7 +138,7 @@ For each group, consider
 
 ## Group Presentations
 
-Each group presents their section (5 minutes each) and other groups ask questions after each presentation.
+Each group presents their section and other groups ask questions after each presentation.
 
 ## Break
 
