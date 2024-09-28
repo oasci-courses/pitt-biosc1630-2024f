@@ -2,16 +2,12 @@
 
 <p style="text-align: center;">
     <object hspace="50">
-        <strong>Due</strong></a>: Oct 2, 2024 by 11:59 p.m.
+        <strong>Due</strong></a>: Oct 4, 2024 by 11:59 p.m.
     </object>
     <object hspace="50">
-        <strong>Points</strong></a>: ??
+        <strong>Points</strong></a>: 60
     </object>
 </p>
-
-!!! danger "DRAFT"
-
-    This page is a work in progress and is subject to change at any moment.
 
 This assignment aims to help you draft the introduction section of your perspective paper in computational biology.
 You'll apply the provided guidelines to structure your introduction effectively, synthesizing the literature you've reviewed and setting the stage for your perspective on the chosen topic.
@@ -19,7 +15,7 @@ You'll apply the provided guidelines to structure your introduction effectively,
 ## Instructions
 
 Using the literature you've gathered and summarized in your previous assignments, write a draft introduction for your perspective paper.
-Your introduction should be approximately 750-1000 words and follow the [recommended guidelines](/assessments/paper/guidelines/components/intro/).
+Your introduction should be approximately 1.5 pages and follow the [recommended guidelines](/assessments/paper/guidelines/components/intro/).
 
 ## Submission Guidelines
 

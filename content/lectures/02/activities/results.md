@@ -19,9 +19,9 @@ After [analyzing figures](./data.md), it's crucial to compare your interpretatio
 
 By the end of this activity, you should be able to:
 
-1. Compare your figure interpretations with the authors' claims in the results text
-2. Identify any discrepancies between visual and textual information
-3. Critically evaluate the presentation of results in scientific papers
+1.  Compare your figure interpretations with the authors' claims in the results text
+2.  Identify any discrepancies between visual and textual information
+3.  Critically evaluate the presentation of results in scientific papers
 
 ## Instructions
 
@@ -31,9 +31,9 @@ By the end of this activity, you should be able to:
 
 As you read, take notes on:
 
-- The authors' main claims about each figure
-- Any statistical analyses or numerical results presented
-- How the authors relate the results to their research questions or hypotheses
+-   The authors' main claims about each figure
+-   Any statistical analyses or numerical results presented
+-   How the authors relate the results to their research questions or hypotheses
 
 ### 2. Compare and Contrast
 
@@ -48,9 +48,9 @@ For each results figure, create a comparison table:
 | Relation to Objectives |     |                 |                                   |
 | Statistical Support |        |                 |                                   |
 
-- Fill in your interpretations from step 1
-- Add the authors' claims from the results text
-- In the last column, note any differences or similarities between your interpretation and the authors' claims
+-   Fill in your interpretations from step 1
+-   Add the authors' claims from the results text
+-   In the last column, note any differences or similarities between your interpretation and the authors' claims
 
 ### 3. Small Group Discussion
 
@@ -59,9 +59,9 @@ For each results figure, create a comparison table:
 Discuss any significant differences between your interpretations and the authors' claims
 Consider possible reasons for these differences:
 
-- Did you miss any important details in the figures?
-- Did the authors provide additional context in the text that wasn't clear from the figures alone?
-- Are there any claims in the text that don't seem fully supported by the figures?
+-   Did you miss any important details in the figures?
+-   Did the authors provide additional context in the text that wasn't clear from the figures alone?
+-   Are there any claims in the text that don't seem fully supported by the figures?
 
 ### 4. Class Discussion
 
@@ -70,7 +70,7 @@ Consider possible reasons for these differences:
 Be prepared to share your group's insights with the class.
 Consider:
 
-- What were the most common differences between student interpretations and authors' claims?
-- Were there any figures that were particularly challenging to interpret without the text?
-- Did the results text clarify any confusing aspects of the figures?
-- Were there any cases where you feel the authors' claims weren't fully supported by the figures?
+-   What were the most common differences between student interpretations and authors' claims?
+-   Were there any figures that were particularly challenging to interpret without the text?
+-   Did the results text clarify any confusing aspects of the figures?
+-   Were there any cases where you feel the authors' claims weren't fully supported by the figures?

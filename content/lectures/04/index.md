@@ -162,36 +162,36 @@ For your assigned kinase group (NIK, PAK, CHK1, or PIM), answer the following:
 
 4.  Describe the main trends you observe in the calculated vs. experimental binding free energies.
 5.  Compare the performance of GAFF and OpenFF force fields for your kinase. Which performed better and why?
-6. Identify a specific challenge in modeling your kinase's inhibitors and explain its potential impact on the results.
-7. Analyze the sampling distribution for your kinase. What does it tell you about the efficiency of the RE-EDS method?
+6.  Identify a specific challenge in modeling your kinase's inhibitors and explain its potential impact on the results.
+7.  Analyze the sampling distribution for your kinase. What does it tell you about the efficiency of the RE-EDS method?
 
 ### Part 3: Critical Evaluation
 
-8. Identify 2 strengths of this study.
-9. Identify 2 weaknesses or limitations of this study.
-10. What additional experiments or analyses would you suggest to address the limitations or expand on the findings?
-11. How might these findings impact the field of computational drug design, particularly for kinase inhibitors?
-12. What ethical considerations might arise from this research and its potential applications?
+8.  Identify 2 strengths of this study.
+9.  Identify 2 weaknesses or limitations of this study.
+10.  What additional experiments or analyses would you suggest to address the limitations or expand on the findings?
+11.  How might these findings impact the field of computational drug design, particularly for kinase inhibitors?
+12.  What ethical considerations might arise from this research and its potential applications?
 
 ### Part 4: Comparative Analysis
 
-13. Compare the performance of RE-EDS across the four kinases. Which kinase showed the best results and why do you think this is the case?
-14. Examine Figure 11 and related data. How does the computational efficiency of RE-EDS compare to traditional methods? What implications does this have for drug discovery?
+13.  Compare the performance of RE-EDS across the four kinases. Which kinase showed the best results and why do you think this is the case?
+14.  Examine Figure 11 and related data. How does the computational efficiency of RE-EDS compare to traditional methods? What implications does this have for drug discovery?
 
 ### Part 5: Future Directions
 
-15. Based on the study's findings, propose a specific research question or hypothesis for future investigation in this field.
-16. Describe a potential application of the RE-EDS method outside of kinase inhibitor design. How might it be useful in other areas of drug discovery or computational chemistry?
+15.  Based on the study's findings, propose a specific research question or hypothesis for future investigation in this field.
+16.  Describe a potential application of the RE-EDS method outside of kinase inhibitor design. How might it be useful in other areas of drug discovery or computational chemistry?
 
 ### Part 6: Reflection
 
-17. What aspect of this study did you find most interesting or surprising? Why?
-18. How has this paper changed or reinforced your understanding of computational methods in drug design?
-19. If you could ask the authors one question about their work, what would it be?
+17.  What aspect of this study did you find most interesting or surprising? Why?
+18.  How has this paper changed or reinforced your understanding of computational methods in drug design?
+19.  If you could ask the authors one question about their work, what would it be?
 
 ### Part 7: Communication
 
-20. Create a brief (3-5 bullet points) summary of the key findings and significance of this study that could be understood by a non-expert audience.
+20.  Create a brief (3-5 bullet points) summary of the key findings and significance of this study that could be understood by a non-expert audience.
 
 ## Break
 
@@ -202,10 +202,10 @@ For your assigned kinase group (NIK, PAK, CHK1, or PIM), answer the following:
 ### Group Discussion
 
 In small groups of 3-4, discuss the following:
-1. What are the three most important takeaways from this study?
-2. How does this research advance our understanding of computational drug design?
-3. What challenges or limitations of the RE-EDS method did you identify?
-4. How might this method impact the drug discovery pipeline in pharmaceutical companies?
+1.  What are the three most important takeaways from this study?
+2.  How does this research advance our understanding of computational drug design?
+3.  What challenges or limitations of the RE-EDS method did you identify?
+4.  How might this method impact the drug discovery pipeline in pharmaceutical companies?
 
 ### Summarize Key Points
 
@@ -215,13 +215,13 @@ As a class, create a list of the top 5 key points from the group discussions.
 
 Write a brief reflection addressing the following:
 
-1. What is the most significant concept you learned from this paper? Explain why you find it important.
-2. How has this study changed your understanding of:
+1.  What is the most significant concept you learned from this paper? Explain why you find it important.
+2.  How has this study changed your understanding of:
     -   Computational methods in drug design?
     -   The challenges in predicting protein-ligand interactions?
-1. Identify one aspect of the RE-EDS method that you'd like to understand better. Formulate this as a specific question.
-2. Imagine you're explaining this research to a friend who isn't in science. Write 2-3 sentences summarizing why this work matters.
-3. If you were to continue this research, what would be your next step or question to investigate?
+1.  Identify one aspect of the RE-EDS method that you'd like to understand better. Formulate this as a specific question.
+2.  Imagine you're explaining this research to a friend who isn't in science. Write 2-3 sentences summarizing why this work matters.
+3.  If you were to continue this research, what would be your next step or question to investigate?
 
 ### Closing Thought
 
