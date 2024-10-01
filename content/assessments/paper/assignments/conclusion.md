@@ -5,7 +5,7 @@
         <strong>Due</strong></a>: Nov 13, 2024 by 11:59 p.m.
     </object>
     <object hspace="50">
-        <strong>Points</strong></a>: ??
+        <strong>Points</strong></a>: 40
     </object>
 </p>
 

@@ -10,12 +10,11 @@ The course will have the following point distribution.
 -   [**Paper**](/assessments/paper/)
     -   [**Theme analysis**](/assessments/paper/assignments/theme): 6%
     -   [**Literature review**](/assessments/paper/assignments/review): 8%
-    -   [**Outline**](/assessments/paper/assignments/outline): 6%
     -   [**Introduction**](/assessments/paper/assignments/intro): 6%
     -   [**Field overview**](/assessments/paper/assignments/overview): 8%
     -   [**Key challenges**](/assessments/paper/assignments/challenges): 8%
-    -   [**Future directions**](/assessments/paper/assignments/future): 4%
-    -   [**Conclusion**](/assessments/paper/assignments/conclusion): 4%
+    -   [**Future directions**](/assessments/paper/assignments/future): 8%
+    -   [**Conclusion**](/assessments/paper/assignments/conclusion): 6%
     -   [**Peer review**](/assessments/paper/assignments/peer): 10%
     -   [**Final draft**](/assessments/paper/assignments/final): 10%
 -   [**Pre-class assignments**](/assessments/pre-class): 10%
