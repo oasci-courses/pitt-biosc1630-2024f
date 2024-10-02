@@ -36,30 +36,7 @@ Your task is to explain your assigned section clearly, ensuring your classmates 
 
 ### Group 1: Introduction and Background
 
-**Assigned Sections:**
-
--   Introduction (pp. 43-45 in the paper)
--   Abstract
-
-**Your Goals:**
-
--   Explain the challenge of predicting molecular properties in drug discovery.
--   Discuss the importance of graph neural networks (GNNs) in addressing these challenges.
--   Introduce the concept of HiGNN and how it improves upon previous methods.
--   Highlight the significance of this research for the broader field of drug discovery.
-
-**Suggested Slide Breakdown:**
-
-1.  Introduction to molecular property prediction.
-2.  Challenges and current methods in the field.
-3.  Introduction to GNNs and their applications.
-4.  The purpose and objectives of HiGNN.
-5.  A brief overview of the paper’s research questions and goals.
-
-**Discussion Questions:**
-
--   Why are current graph-based deep learning methods insufficient for molecular property prediction?
--   How might HiGNN improve the drug discovery process in practical terms?
+Removed.
 
 ---
 
