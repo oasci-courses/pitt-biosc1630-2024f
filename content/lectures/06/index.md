@@ -4,10 +4,6 @@ Paper 02 - Methods & Discussion
 </h1>
 <p align="center"><b>Date: </b>Oct 2, 2024</p>
 
-!!! danger "DRAFT"
-
-    This page is a work in progress and is subject to change at any moment.
-
 **Today's paper:** Zhu, W., Zhang, Y., Zhao, D., Xu, J., & Wang, L. (2022). HiGNN: A hierarchical informative graph neural network for molecular property prediction equipped with feature-wise attention. *Journal of Chemical Information and Modeling, 63*(1), 43-55. DOI: [10.1021/acs.jcim.2c01099](https://doi.org/10.1021/acs.jcim.2c01099)
 
 ## Learning objectives
@@ -42,28 +38,28 @@ Your task is to explain your assigned section clearly, ensuring your classmates 
 
 **Assigned Sections:**
 
-- Introduction (pp. 43-45 in the paper)
-- Abstract
+-   Introduction (pp. 43-45 in the paper)
+-   Abstract
 
 **Your Goals:**
 
-- Explain the challenge of predicting molecular properties in drug discovery.
-- Discuss the importance of graph neural networks (GNNs) in addressing these challenges.
-- Introduce the concept of HiGNN and how it improves upon previous methods.
-- Highlight the significance of this research for the broader field of drug discovery.
+-   Explain the challenge of predicting molecular properties in drug discovery.
+-   Discuss the importance of graph neural networks (GNNs) in addressing these challenges.
+-   Introduce the concept of HiGNN and how it improves upon previous methods.
+-   Highlight the significance of this research for the broader field of drug discovery.
 
 **Suggested Slide Breakdown:**
 
-1. Introduction to molecular property prediction.
-2. Challenges and current methods in the field.
-3. Introduction to GNNs and their applications.
-4. The purpose and objectives of HiGNN.
-5. A brief overview of the paper’s research questions and goals.
+1.  Introduction to molecular property prediction.
+2.  Challenges and current methods in the field.
+3.  Introduction to GNNs and their applications.
+4.  The purpose and objectives of HiGNN.
+5.  A brief overview of the paper’s research questions and goals.
 
 **Discussion Questions:**
 
-- Why are current graph-based deep learning methods insufficient for molecular property prediction?
-- How might HiGNN improve the drug discovery process in practical terms?
+-   Why are current graph-based deep learning methods insufficient for molecular property prediction?
+-   How might HiGNN improve the drug discovery process in practical terms?
 
 ---
 
@@ -71,27 +67,27 @@ Your task is to explain your assigned section clearly, ensuring your classmates 
 
 **Assigned Sections:**
 
-- Methods: HiGNN Architecture (pp. 45-47, covering molecular graph and BRICS fragmentation)
+-   Methods: HiGNN Architecture (pp. 45-47, covering molecular graph and BRICS fragmentation)
 
 **Your Goals:**
 
-- Provide a detailed explanation of the HiGNN architecture.
-- Focus on the hierarchical design of HiGNN and how it processes both molecular graphs and BRICS fragments.
-- Explain the role of the **feature-wise attention** mechanism in recalibrating atomic features.
-- Highlight how these architectural innovations lead to improved molecular property predictions.
+-   Provide a detailed explanation of the HiGNN architecture.
+-   Focus on the hierarchical design of HiGNN and how it processes both molecular graphs and BRICS fragments.
+-   Explain the role of the **feature-wise attention** mechanism in recalibrating atomic features.
+-   Highlight how these architectural innovations lead to improved molecular property predictions.
 
 **Suggested Slide Breakdown:**
 
-1. Overview of HiGNN architecture.
-2. Explanation of molecular graph processing.
-3. Introduction to BRICS fragmentation and its integration.
-4. Description of the feature-wise attention mechanism.
-5. How these components interact to improve predictions.
+1.  Overview of HiGNN architecture.
+2.  Explanation of molecular graph processing.
+3.  Introduction to BRICS fragmentation and its integration.
+4.  Description of the feature-wise attention mechanism.
+5.  How these components interact to improve predictions.
 
 **Discussion Questions:**
 
-- How does the hierarchical design of HiGNN differ from traditional GNNs in molecular property prediction?
-- Why is the feature-wise attention mechanism a crucial innovation in this model?
+-   How does the hierarchical design of HiGNN differ from traditional GNNs in molecular property prediction?
+-   Why is the feature-wise attention mechanism a crucial innovation in this model?
 
 ---
 
@@ -99,27 +95,27 @@ Your task is to explain your assigned section clearly, ensuring your classmates 
 
 **Assigned Sections:**
 
-- Methods: Benchmark Data Sets and Hyperparameters (pp. 48-49)
+-   Methods: Benchmark Data Sets and Hyperparameters (pp. 48-49)
 
 **Your Goals:**
 
-- Explain the benchmark data sets used in the study and why they are relevant for drug discovery.
-- Discuss the importance of using multiple data sets for evaluating model performance.
-- Provide an overview of the training process, including the hyperparameter optimization.
-- Mention the significance of splitting the data into training, validation, and test sets.
+-   Explain the benchmark data sets used in the study and why they are relevant for drug discovery.
+-   Discuss the importance of using multiple data sets for evaluating model performance.
+-   Provide an overview of the training process, including the hyperparameter optimization.
+-   Mention the significance of splitting the data into training, validation, and test sets.
 
 **Suggested Slide Breakdown:**
 
-1. Introduction to the data sets used in the study.
-2. Relevance of each data set for molecular property prediction (mention a few key data sets like ESOL, FreeSolv, BACE, etc.).
-3. Overview of the training process.
-4. Hyperparameter optimization and its role in the study.
-5. Significance of data splitting (random vs. scaffold splitting).
+1.  Introduction to the data sets used in the study.
+2.  Relevance of each data set for molecular property prediction (mention a few key data sets like ESOL, FreeSolv, BACE, etc.).
+3.  Overview of the training process.
+4.  Hyperparameter optimization and its role in the study.
+5.  Significance of data splitting (random vs. scaffold splitting).
 
 **Discussion Questions:**
 
-- Why is it important to evaluate the model on a variety of data sets?
-- How does scaffold splitting improve the generalizability of the model compared to random splitting?
+-   Why is it important to evaluate the model on a variety of data sets?
+-   How does scaffold splitting improve the generalizability of the model compared to random splitting?
 
 ---
 
@@ -127,27 +123,27 @@ Your task is to explain your assigned section clearly, ensuring your classmates 
 
 **Assigned Sections:**
 
-- Results and Discussion (pp. 49-50)
+-   Results and Discussion (pp. 49-50)
 
 **Your Goals:**
 
-- Summarize the model’s performance on different data sets.
-- Compare HiGNN’s performance with other models such as GCN, GAT, and Chemprop.
-- Highlight key findings, especially in tasks related to drug discovery, such as predicting ADMET properties.
-- Discuss why HiGNN outperformed other models in most cases and what that implies for future research.
+-   Summarize the model’s performance on different data sets.
+-   Compare HiGNN’s performance with other models such as GCN, GAT, and Chemprop.
+-   Highlight key findings, especially in tasks related to drug discovery, such as predicting ADMET properties.
+-   Discuss why HiGNN outperformed other models in most cases and what that implies for future research.
 
 **Suggested Slide Breakdown:**
 
-1. Overview of performance results on key data sets.
-2. Comparison of HiGNN with other models (focus on top-performing models).
-3. Specific success stories (e.g., BACE, BBBP data sets).
-4. Discussion of HiGNN’s strength in predicting ADMET properties.
-5. What do these results mean for future applications?
+1.  Overview of performance results on key data sets.
+2.  Comparison of HiGNN with other models (focus on top-performing models).
+3.  Specific success stories (e.g., BACE, BBBP data sets).
+4.  Discussion of HiGNN’s strength in predicting ADMET properties.
+5.  What do these results mean for future applications?
 
 **Discussion Questions:**
 
-- In which areas does HiGNN significantly outperform other models, and why?
-- What might be some limitations of HiGNN based on its performance across different tasks?
+-   In which areas does HiGNN significantly outperform other models, and why?
+-   What might be some limitations of HiGNN based on its performance across different tasks?
 
 ---
 
@@ -155,24 +151,24 @@ Your task is to explain your assigned section clearly, ensuring your classmates 
 
 **Assigned Sections:**
 
-- Interpretation of HiGNN: Case Studies on BACE and BBBP (pp. 50-52)
+-   Interpretation of HiGNN: Case Studies on BACE and BBBP (pp. 50-52)
 
 **Your Goals:**
 
-- Explain the **molecular-fragment similarity mechanism** and its role in making HiGNN interpretable.
-- Use the **BACE** and **BBBP** case studies to demonstrate how HiGNN identifies key molecular fragments.
-- Discuss how this interpretability can aid chemists in drug design.
-- Highlight the practical implications of the findings from the case studies.
+-   Explain the **molecular-fragment similarity mechanism** and its role in making HiGNN interpretable.
+-   Use the **BACE** and **BBBP** case studies to demonstrate how HiGNN identifies key molecular fragments.
+-   Discuss how this interpretability can aid chemists in drug design.
+-   Highlight the practical implications of the findings from the case studies.
 
 **Suggested Slide Breakdown:**
 
-1. Overview of HiGNN’s interpretability mechanism (molecular-fragment similarity).
-2. Case study 1: BACE (show how HiGNN identifies key fragments).
-3. Case study 2: BBBP (explain how permeability predictions work).
-4. Importance of model interpretability in drug discovery.
-5. Potential future applications of this interpretability.
+1.  Overview of HiGNN’s interpretability mechanism (molecular-fragment similarity).
+2.  Case study 1: BACE (show how HiGNN identifies key fragments).
+3.  Case study 2: BBBP (explain how permeability predictions work).
+4.  Importance of model interpretability in drug discovery.
+5.  Potential future applications of this interpretability.
 
 **Discussion Questions:**
 
-- How does the molecular-fragment similarity mechanism improve the interpretability of HiGNN’s predictions?
-- Why is interpretability important in drug discovery models?
+-   How does the molecular-fragment similarity mechanism improve the interpretability of HiGNN’s predictions?
+-   Why is interpretability important in drug discovery models?
