@@ -18,7 +18,6 @@ By applying the [provided guidelines](/assessments/paper/guidelines/components/i
 -   Synthesize existing literature to provide a comprehensive background for your topic.
 -   Develop a clear and engaging introduction that outlines your perspective and its significance within the field of computational biology.
 -   Practice academic writing standards, including proper citation and referencing.
-Certainly! Below is the enhanced version of your assignment instructions for the **Introduction Draft**. I have added additional details to ensure clarity and comprehensiveness for your students. Additionally, I have provided a detailed rubric distribution totaling **60 points** to effectively evaluate each component of the introduction draft.
 
 ## Instructions
 
