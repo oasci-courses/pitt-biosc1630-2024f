@@ -44,8 +44,6 @@ Jump to [this week](#week-1).
 
 **Wednesday** (Oct 9) [Lecture 07](../../lectures/07/)
 
--   ^^Due at 1:00 pm^^:  [L07 pre-class assignment](../../assessments/pre-class/l07/)
-
 ## Week 8
 
 **Wednesday** (Oct 16) [Lecture 08](../../lectures/08/)
