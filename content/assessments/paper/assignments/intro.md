@@ -1,4 +1,4 @@
-# Introduction draft
+# Introduction
 
 <p style="text-align: center;">
     <object hspace="50">
