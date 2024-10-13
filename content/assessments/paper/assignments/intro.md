@@ -109,5 +109,3 @@ Your introduction draft will be evaluated based on the following criteria. The t
 -   **Maintain Clarity:** Use straightforward language and avoid unnecessary jargon. Define specialized terms as needed.
 -   **Revise Thoroughly:** Review your draft multiple times to enhance clarity, coherence, and flow.
 -   **Seek Feedback:** Share your draft with peers or utilize writing center resources for constructive feedback before submission.
-
-By adhering to these instructions and utilizing the rubric, you will be well-prepared to craft a strong and effective introduction for your perspective paper in computational biology.
