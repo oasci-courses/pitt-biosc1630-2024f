@@ -50,43 +50,43 @@ Your Field Overview will be evaluated based on the following criteria. The total
 | **Writing Quality** | 5 | **Writing is clear, concise, and well-organized.** Uses proper grammar and spelling. Maintains an academic tone throughout. |
 | **Citations and Formatting** | 5 | **Properly cites all sources using APA format.** Adheres to submission guidelines for formatting. Includes a complete and correctly formatted reference list. |
 
-## Detailed Breakdown of Rubric Criteria
+??? note "Detailed Rubric Breakdown"
 
-1.  **Key Concepts (20 points)**
-    -   20-18: All relevant concepts clearly defined and explained; appropriate use of technical terms
-    -   17-15: Most key concepts covered; explanations mostly clear and accurate
-    -   14-11: Some important concepts missing or poorly explained
-    -   10-0: Many key concepts missing or incorrectly explained
-2.  **Current State (20 points)**
-    -   20-18: Comprehensive, up-to-date summary of the field; includes cutting-edge research
-    -   17-15: Good overview of current state; may miss some recent developments
-    -   14-11: Basic summary of current state; lacks depth or misses important recent work
-    -   10-0: Outdated or inaccurate representation of the current state
-3.  **Major Debates (20 points)**
-    -   20-18: Clearly identifies and explains major debates; presents multiple viewpoints objectively
-    -   17-15: Covers main debates but may lack some nuance or balance
-    -   14-11: Mentions debates but lacks depth or misses important perspectives
-    -   10-0: Fails to identify major debates or presents them inaccurately
-4.  **Relevance (5 points)**
-    -   5: Clearly explains significance and potential impacts; strong connections to broader field
-    -   4: Good explanation of relevance but may lack some depth or connections
-    -   3: Basic explanation of relevance; lacks strong connections or implications
-    -   2-0: Fails to adequately explain relevance or makes inaccurate connections
-5.  **Research Quality (5 points)**
-    -   5: Excellent range of high-quality, relevant sources; balance of seminal and recent works
-    -   4: Good variety of sources; may slightly favor older or newer publications
-    -   3: Adequate sources but lacks diversity or misses some important references
-    -   2-0: Poor selection of sources; overreliance on outdated or non-peer-reviewed materials
-6.  **Writing Quality (5 points)**
-    -   5: Exceptionally clear, concise, and well-organized; free of grammatical errors
-    -   4: Generally clear and well-organized; minor grammatical issues
-    -   3: Some clarity or organization issues; several grammatical errors
-    -   2-0: Poorly written; numerous grammatical errors; lacks clear organization
-7.  **Citations and Formatting (5 points)**
-    -   5: Perfect APA citations and formatting; complete and correct reference list
-    -   4: Minor citation or formatting errors; reference list mostly correct
-    -   3: Several citation or formatting errors; incomplete or poorly formatted reference list
-    -   2-0: Major citation or formatting issues; missing or severely flawed reference list
+    1.  **Key Concepts (20 points)**
+        -   20-18: All relevant concepts clearly defined and explained; appropriate use of technical terms
+        -   17-15: Most key concepts covered; explanations mostly clear and accurate
+        -   14-11: Some important concepts missing or poorly explained
+        -   10-0: Many key concepts missing or incorrectly explained
+    2.  **Current State (20 points)**
+        -   20-18: Comprehensive, up-to-date summary of the field; includes cutting-edge research
+        -   17-15: Good overview of current state; may miss some recent developments
+        -   14-11: Basic summary of current state; lacks depth or misses important recent work
+        -   10-0: Outdated or inaccurate representation of the current state
+    3.  **Major Debates (20 points)**
+        -   20-18: Clearly identifies and explains major debates; presents multiple viewpoints objectively
+        -   17-15: Covers main debates but may lack some nuance or balance
+        -   14-11: Mentions debates but lacks depth or misses important perspectives
+        -   10-0: Fails to identify major debates or presents them inaccurately
+    4.  **Relevance (5 points)**
+        -   5: Clearly explains significance and potential impacts; strong connections to broader field
+        -   4: Good explanation of relevance but may lack some depth or connections
+        -   3: Basic explanation of relevance; lacks strong connections or implications
+        -   2-0: Fails to adequately explain relevance or makes inaccurate connections
+    5.  **Research Quality (5 points)**
+        -   5: Excellent range of high-quality, relevant sources; balance of seminal and recent works
+        -   4: Good variety of sources; may slightly favor older or newer publications
+        -   3: Adequate sources but lacks diversity or misses some important references
+        -   2-0: Poor selection of sources; overreliance on outdated or non-peer-reviewed materials
+    6.  **Writing Quality (5 points)**
+        -   5: Exceptionally clear, concise, and well-organized; free of grammatical errors
+        -   4: Generally clear and well-organized; minor grammatical issues
+        -   3: Some clarity or organization issues; several grammatical errors
+        -   2-0: Poorly written; numerous grammatical errors; lacks clear organization
+    7.  **Citations and Formatting (5 points)**
+        -   5: Perfect APA citations and formatting; complete and correct reference list
+        -   4: Minor citation or formatting errors; reference list mostly correct
+        -   3: Several citation or formatting errors; incomplete or poorly formatted reference list
+        -   2-0: Major citation or formatting issues; missing or severely flawed reference list
 
 ## Additional guidance
 
