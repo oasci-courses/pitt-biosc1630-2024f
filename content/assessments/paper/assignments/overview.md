@@ -38,55 +38,55 @@ Write a comprehensive "Field Overview" section for your perspective paper, provi
 
 ## Detailed Rubric
 
-Your Field Overview will be evaluated based on the following criteria. The total possible points for this assignment are **80 points**.
+Your Field Overview will be evaluated based on the following criteria.
 
-| Criterion | Points | Description |
-|-----------|--------|-------------|
-| **Key Concepts** | 20 | **Clearly defines and explains fundamental concepts and terminology.** Provides accurate and concise explanations. Uses appropriate scientific language. |
-| **Current State** | 20 | **Comprehensively summarizes current understanding and major developments.** Highlights recent advancements and ongoing research. Demonstrates awareness of cutting-edge work in the field. |
-| **Major Debates** | 20 | **Identifies and describes main points of contention or debates.** Presents different viewpoints objectively. Shows understanding of complexities in the field. |
-| **Relevance** | 5 | **Effectively explains the significance of the topic.** Discusses potential impacts on computational biology and related fields. Demonstrates the topic's importance in the broader scientific context. |
-| **Research Quality** | 5 | **Uses appropriate and diverse sources.** Includes both seminal works and recent publications. Demonstrates thorough research and understanding of the literature. |
-| **Writing Quality** | 5 | **Writing is clear, concise, and well-organized.** Uses proper grammar and spelling. Maintains an academic tone throughout. |
-| **Citations and Formatting** | 5 | **Properly cites all sources using APA format.** Adheres to submission guidelines for formatting. Includes a complete and correctly formatted reference list. |
+| Criterion               | Points | Description                                                                                                                                                  |
+|-------------------------|--------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Key Concepts**        | 30     | **Clearly defines and explains fundamental concepts and terminology.** Provides accurate and concise explanations. Uses appropriate scientific language.      |
+| **Current State**       | 30     | **Comprehensively summarizes current understanding and major developments.** Highlights recent advancements and ongoing research. Demonstrates awareness of cutting-edge work in the field. |
+| **Major Debates**       | 30     | **Identifies and describes main points of contention or debates.** Presents different viewpoints objectively. Shows understanding of complexities in the field.  |
+| **Relevance**           | 8      | **Effectively explains the significance of the topic.** Discusses potential impacts on computational biology and related fields. Demonstrates the topic's importance in the broader scientific context. |
+| **Research Quality**    | 8      | **Uses appropriate and diverse sources.** Includes both seminal works and recent publications. Demonstrates thorough research and understanding of the literature.|
+| **Writing Quality**     | 8      | **Writing is clear, concise, and well-organized.** Uses proper grammar and spelling. Maintains an academic tone throughout.                                       |
+| **Citations and Formatting** | 6  | **Properly cites all sources using APA format.** Adheres to submission guidelines for formatting. Includes a complete and correctly formatted reference list.      |
 
-??? note "Detailed Rubric Breakdown"
+??? note "Detailed rubric"
 
-    1.  **Key Concepts (20 points)**
-        -   20-18: All relevant concepts clearly defined and explained; appropriate use of technical terms
-        -   17-15: Most key concepts covered; explanations mostly clear and accurate
-        -   14-11: Some important concepts missing or poorly explained
-        -   10-0: Many key concepts missing or incorrectly explained
-    2.  **Current State (20 points)**
-        -   20-18: Comprehensive, up-to-date summary of the field; includes cutting-edge research
-        -   17-15: Good overview of current state; may miss some recent developments
-        -   14-11: Basic summary of current state; lacks depth or misses important recent work
-        -   10-0: Outdated or inaccurate representation of the current state
-    3.  **Major Debates (20 points)**
-        -   20-18: Clearly identifies and explains major debates; presents multiple viewpoints objectively
-        -   17-15: Covers main debates but may lack some nuance or balance
-        -   14-11: Mentions debates but lacks depth or misses important perspectives
-        -   10-0: Fails to identify major debates or presents them inaccurately
-    4.  **Relevance (5 points)**
-        -   5: Clearly explains significance and potential impacts; strong connections to broader field
-        -   4: Good explanation of relevance but may lack some depth or connections
-        -   3: Basic explanation of relevance; lacks strong connections or implications
-        -   2-0: Fails to adequately explain relevance or makes inaccurate connections
-    5.  **Research Quality (5 points)**
-        -   5: Excellent range of high-quality, relevant sources; balance of seminal and recent works
-        -   4: Good variety of sources; may slightly favor older or newer publications
-        -   3: Adequate sources but lacks diversity or misses some important references
-        -   2-0: Poor selection of sources; overreliance on outdated or non-peer-reviewed materials
-    6.  **Writing Quality (5 points)**
-        -   5: Exceptionally clear, concise, and well-organized; free of grammatical errors
-        -   4: Generally clear and well-organized; minor grammatical issues
-        -   3: Some clarity or organization issues; several grammatical errors
-        -   2-0: Poorly written; numerous grammatical errors; lacks clear organization
-    7.  **Citations and Formatting (5 points)**
-        -   5: Perfect APA citations and formatting; complete and correct reference list
-        -   4: Minor citation or formatting errors; reference list mostly correct
-        -   3: Several citation or formatting errors; incomplete or poorly formatted reference list
-        -   2-0: Major citation or formatting issues; missing or severely flawed reference list
+    1. **Key Concepts (30 points)**
+        - 30-27: All relevant concepts clearly defined and explained; appropriate use of technical terms.
+        - 26-24: Most key concepts covered; explanations mostly clear and accurate.
+        - 23-20: Some important concepts missing or poorly explained.
+        - 19-0: Many key concepts missing or incorrectly explained.
+    2. **Current State (30 points)**
+        - 30-27: Comprehensive, up-to-date summary of the field; includes cutting-edge research.
+        - 26-24: Good overview of current state; may miss some recent developments.
+        - 23-20: Basic summary of current state; lacks depth or misses important recent work.
+        - 19-0: Outdated or inaccurate representation of the current state.
+    3. **Major Debates (30 points)**
+        - 30-27: Clearly identifies and explains major debates; presents multiple viewpoints objectively.
+        - 26-24: Covers main debates but may lack some nuance or balance.
+        - 23-20: Mentions debates but lacks depth or misses important perspectives.
+        - 19-0: Fails to identify major debates or presents them inaccurately.
+    4. **Relevance (8 points)**
+        - 8-7: Clearly explains significance and potential impacts; strong connections to broader field.
+        - 6-5: Good explanation of relevance but may lack some depth or connections.
+        - 4-3: Basic explanation of relevance; lacks strong connections or implications.
+        - 2-0: Fails to adequately explain relevance or makes inaccurate connections.
+    5. **Research Quality (8 points)**
+        - 8-7: Excellent range of high-quality, relevant sources; balance of seminal and recent works.
+        - 6-5: Good variety of sources; may slightly favor older or newer publications.
+        - 4-3: Adequate sources but lacks diversity or misses some important references.
+        - 2-0: Poor selection of sources; overreliance on outdated or non-peer-reviewed materials.
+    6. **Writing Quality (8 points)**
+        - 8-7: Exceptionally clear, concise, and well-organized; free of grammatical errors.
+        - 6-5: Generally clear and well-organized; minor grammatical issues.
+        - 4-3: Some clarity or organization issues; several grammatical errors.
+        - 2-0: Poorly written; numerous grammatical errors; lacks clear organization.
+    7. **Citations and Formatting (6 points)**
+        - 6-5: Perfect APA citations and formatting; complete and correct reference list.
+        - 4-3: Minor citation or formatting errors; reference list mostly correct.
+        - 2-1: Several citation or formatting errors; incomplete or poorly formatted reference list.
+        - 0: Major citation or formatting issues; missing or severely flawed reference list.
 
 ## Additional guidance
 
