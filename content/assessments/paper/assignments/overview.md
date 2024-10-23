@@ -107,3 +107,15 @@ Take your time to research thoroughly and present the information clearly and lo
 -   Critically evaluate your sources, ensuring they are reputable and relevant.
 -   Have a peer review your work for clarity and comprehensiveness.
 -   Revise and refine your overview to ensure it provides a solid foundation for your perspective.
+
+## Common feedback
+
+1.  Instead of using headings like "Key Concepts" or "Molecular Dynamics", use assertion statements like, "Molecular simulations are invaluable for novel drug targets".
+2.  In-text citations should be in the format of: `(Maldonado et al., 2024)`.
+3.  Ensure that your writing is academically formal.
+4.  When talking about other methods or packages, it is crucial that provide each with an individual citation.
+    It is better to add a citation than leave it out.
+    For example,
+
+    > There are many MD simulation packages such as AMBER (CITE), NAMD (CITE), and GROMACS (CITE).
+5.  Always remember to ask yourself, "What value does this sentence have here?" and "Would the reader be able to understand the perspective without this sentence"?
