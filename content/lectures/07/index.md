@@ -231,6 +231,6 @@ For example, opening with a recent breakthrough in molecular dynamics or a key l
 
 **General Writing Tips**
 
-- Avoid long, complex sentences and unnecessary jargon unless needed. Aim for clarity.
-- The introduction should not dive too deeply into technical details. Save those for the main body of the paper.
-- Each paragraph should lead naturally to the next, maintaining a coherent structure from beginning to end.
+-   Avoid long, complex sentences and unnecessary jargon unless needed. Aim for clarity.
+-   The introduction should not dive too deeply into technical details. Save those for the main body of the paper.
+-   Each paragraph should lead naturally to the next, maintaining a coherent structure from beginning to end.

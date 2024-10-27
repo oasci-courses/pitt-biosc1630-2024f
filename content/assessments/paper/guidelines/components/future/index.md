@@ -6,10 +6,10 @@ The Future Directions section is a concise yet crucial component of your perspec
 
 In just a few paragraphs, aim to:
 
-1. Suggest logical next steps based on your perspective
-2. Identify key research questions or hypotheses
-3. Briefly discuss potential methodological approaches
-4. Consider broader impacts on the field
+1.  Suggest logical next steps based on your perspective
+2.  Identify key research questions or hypotheses
+3.  Briefly discuss potential methodological approaches
+4.  Consider broader impacts on the field
 
 ## Writing Your Future Directions (2-3 paragraphs total)
 
@@ -33,15 +33,15 @@ If space allows, briefly explore interdisciplinary connections:
 
 ## Writing Tips
 
-1. **Be concise and focused:** Given the limited space, prioritize the most impactful ideas.
-2. **Maintain relevance:** Ensure all proposed directions clearly connect to your main perspective.
-3. **Balance specificity and breadth:** Provide concrete suggestions while also touching on broader implications.
-4. **Use conditional language:** Given the speculative nature, use phrases like "could potentially" or "might lead to."
+1.  **Be concise and focused:** Given the limited space, prioritize the most impactful ideas.
+2.  **Maintain relevance:** Ensure all proposed directions clearly connect to your main perspective.
+3.  **Balance specificity and breadth:** Provide concrete suggestions while also touching on broader implications.
+4.  **Use conditional language:** Given the speculative nature, use phrases like "could potentially" or "might lead to."
 
 ## Common Pitfalls to Avoid
 
-- **Being too vague:** Provide specific research questions or approaches, not general statements.
-- **Overreaching:** Ensure your proposed directions are grounded in scientific possibility.
-- **Losing focus:** Keep future directions relevant to your main perspective and computational biology.
+-   **Being too vague:** Provide specific research questions or approaches, not general statements.
+-   **Overreaching:** Ensure your proposed directions are grounded in scientific possibility.
+-   **Losing focus:** Keep future directions relevant to your main perspective and computational biology.
 
 By following these guidelines, you'll craft a concise yet impactful Future Directions section that effectively concludes your perspective paper and contributes valuable ideas to the field of computational biology.

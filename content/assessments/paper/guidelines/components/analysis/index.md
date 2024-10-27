@@ -6,11 +6,11 @@ The "Presenting Your Perspective" section is the heart of your scientific perspe
 
 The primary purpose of this section is to:
 
-1. Clearly articulate your perspective or argument
-2. Provide evidence and reasoning to support your viewpoint
-3. Address potential counterarguments or limitations
-4. Discuss the implications and significance of your perspective
-5. Suggest future directions or applications of your ideas
+1.  Clearly articulate your perspective or argument
+2.  Provide evidence and reasoning to support your viewpoint
+3.  Address potential counterarguments or limitations
+4.  Discuss the implications and significance of your perspective
+5.  Suggest future directions or applications of your ideas
 
 ## Structuring Your Perspective
 
@@ -26,10 +26,10 @@ Elaborate on the key components of your perspective, breaking it down into its c
 
 Provide evidence and reasoning to support your viewpoint. This may include:
 
-- Relevant research findings from your literature review
-- Logical arguments based on established principles in computational biology
-- Examples or case studies that illustrate your points
-- Theoretical models or frameworks that underpin your perspective
+-   Relevant research findings from your literature review
+-   Logical arguments based on established principles in computational biology
+-   Examples or case studies that illustrate your points
+-   Theoretical models or frameworks that underpin your perspective
 
 For each piece of evidence or argument, explain how it supports your perspective. Use clear, concise language and maintain a logical flow between ideas.
 
@@ -37,9 +37,9 @@ For each piece of evidence or argument, explain how it supports your perspective
 
 Acknowledge potential counterarguments or limitations to your perspective. This demonstrates critical thinking and strengthens your argument by showing you've considered alternative viewpoints. For each counterargument:
 
-- Clearly state the opposing view
-- Explain why it might be considered valid
-- Provide a reasoned response that defends your perspective
+-   Clearly state the opposing view
+-   Explain why it might be considered valid
+-   Provide a reasoned response that defends your perspective
 
 For example: "Some researchers argue that the complexity of explainable AI models may reduce their efficiency in large-scale genomic analyses. However, recent advancements in computational power and optimized algorithms suggest that this trade-off is becoming increasingly negligible."
 
