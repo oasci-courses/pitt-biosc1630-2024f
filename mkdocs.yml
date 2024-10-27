@@ -55,7 +55,6 @@ validation:
 plugins:
   - search
   - material-plausible
-  - table-reader
   - mkdocs-jupyter:
         no_input: False
         include_requirejs: true
@@ -77,6 +76,7 @@ plugins:
       type: iso_datetime
       timezone: America/Detroit
       fallback_to_build_date: true
+  - table-reader
 
 extra:
   generator: true
