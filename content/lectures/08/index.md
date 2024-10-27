@@ -1,6 +1,6 @@
 <h1 align="center">
 <b>Lecture 08</b><br>
-Paper 03 - Part 1
+Paper 03 - Reading
 </h1>
 <p align="center"><b>Date: </b>Oct 16, 2024</p>
 
