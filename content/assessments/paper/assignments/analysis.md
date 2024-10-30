@@ -13,7 +13,7 @@ Write the "Analysis" section of your perspective article, articulating and defen
 
 ## Instructions
 
-1.  **Length:** Approximately 1.5 pages.
+1.  **Length:** Approximately 1 to 1.5 pages.
 2.  **Content Requirements:**
     -   Clearly articulate your perspective or argument
     -   Provide evidence and reasoning to support your viewpoint
