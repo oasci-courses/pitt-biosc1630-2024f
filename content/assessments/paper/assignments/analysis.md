@@ -30,41 +30,41 @@ Your analysis section will be evaluated based on the following criteria.
 
 | Criterion | Points | Description |
 |-----------|--------|-------------|
-| **Clarity of Perspective** | 20 | Clear articulation of a specific, debatable perspective relevant to computational biology |
+| **Clarity of Perspective** | 30 | Clear articulation of a specific, debatable perspective relevant to computational biology |
 | **Evidence and Reasoning** | 25 | Strong support for the perspective with relevant research, logical arguments, and examples |
-| **Counterarguments** | 15 | Thoughtful consideration and address of potential counterarguments or limitations |
+| **Counterarguments** | 20 | Thoughtful consideration and address of potential counterarguments or limitations |
 | **Implications and Significance** | 15 | Insightful discussion of the potential impact and importance of the perspective |
-| **Organization and Flow** | 10 | Logical structure and smooth transitions between ideas |
+| **Organization and Flow** | 15 | Logical structure and smooth transitions between ideas |
 | **Writing Quality** | 10 | Clear, concise prose with appropriate academic tone and minimal errors |
 | **Use of Sources** | 5 | Appropriate integration and citation of relevant, peer-reviewed sources |
 
 ## Detailed Rubric Breakdown
 
-1.  **Clarity of Perspective (20 points)**
-    -   20-18: Perspective is exceptionally clear, specific, and relevant to computational biology
-    -   17-15: Perspective is clear and relevant, with minor areas for improvement in specificity
-    -   14-12: Perspective is somewhat clear but may lack specificity or relevance
-    -   11-0: Perspective is unclear, overly broad, or not relevant to computational biology
+1.  **Clarity of Perspective (30 points)**
+    -   30-25: Perspective is exceptionally clear, specific, and relevant to computational biology
+    -   24-19: Perspective is clear and relevant, with minor areas for improvement in specificity
+    -   18-13: Perspective is somewhat clear but may lack specificity or relevance
+    -   12-0: Perspective is unclear, overly broad, or not relevant to computational biology
 2.  **Evidence and Reasoning (25 points)**
-    -   25-22: Exceptional use of evidence and reasoning, with a strong connection to the perspective
-    -   21-18: Good use of evidence and reasoning, with clear connections to the perspective
-    -   17-14: Adequate evidence and reasoning, but connections to the perspective may be weak
-    -   13-0: Insufficient or irrelevant evidence, poor reasoning
-3.  **Counterarguments (15 points)**
-    -   15-13: Thorough and thoughtful address of potential counterarguments or limitations
-    -   12-10: Good consideration of counterarguments, with minor areas for improvement
-    -   9-7: Some counterarguments addressed, but treatment may be superficial
-    -   6-0: Counterarguments ignored or inadequately addressed
+    -   25-21: Exceptional use of evidence and reasoning, with a strong connection to the perspective
+    -   20-16: Good use of evidence and reasoning, with clear connections to the perspective
+    -   15-11: Adequate evidence and reasoning, but connections to the perspective may be weak
+    -   10-0: Insufficient or irrelevant evidence, poor reasoning
+3.  **Counterarguments (20 points)**
+    -   20-17: Thorough and thoughtful address of potential counterarguments or limitations
+    -   16-13: Good consideration of counterarguments, with minor areas for improvement
+    -   12-9: Some counterarguments addressed, but treatment may be superficial
+    -   8-0: Counterarguments ignored or inadequately addressed
 4.  **Implications and Significance (15 points)**
     -   15-13: Insightful and comprehensive discussion of implications and significance
     -   12-10: Good discussion of implications and significance, with some depth
     -   9-7: Basic discussion of implications and significance, lacking depth
     -   6-0: Little or no discussion of implications and significance
-5.  **Organization and Flow (10 points)**
-    -   10-9: Exceptional organization with seamless flow between ideas
-    -   8-7: Good organization and flow, with minor issues
-    -   6-5: Adequate organization, but flow between ideas may be choppy
-    -   4-0: Poor organization and flow, ideas are difficult to follow
+5.  **Organization and Flow (15 points)**
+    -   15-13: Exceptional organization with seamless flow between ideas
+    -   12-10: Good organization and flow, with minor issues
+    -   9-7: Adequate organization, but flow between ideas may be choppy
+    -   6-0: Poor organization and flow, ideas are difficult to follow
 6.  **Writing Quality (10 points)**
     -   10-9: Excellent writing quality with clear, concise prose and appropriate academic tone
     -   8-7: Good writing quality with minor errors or awkward phrasing
